@@ -19,7 +19,7 @@
       />
 
       <!-- Konten kanan: soal aktif -->
-      <main class="flex-1 overflow-y-auto p-4 md:p-6">
+      <main ref="mainContentRef" class="flex-1 overflow-y-auto p-4 md:p-6">
         <SoalCard
           v-if="soalAktif"
           :soal="soalAktif"
@@ -92,6 +92,15 @@ const { mulai, berhenti, sisaDetik } = useTimer();
 
 const namaMatkul = ref("");
 const showModalTimer = ref(false);
+const mainContentRef = ref<HTMLElement | null>(null);
+
+watch(indexAktif, () => {
+  nextTick(() => {
+    if (mainContentRef.value) {
+      mainContentRef.value.scrollTop = 0; // langsung scroll ke atas
+    }
+  });
+});
 
 onMounted(async () => {
   const daftar: Matakuliah[] = await $fetch("/data/matakuliah.json");
@@ -121,6 +130,6 @@ const selesaiUjian = () => {
   berhenti();
   const hasil = hitungHasil();
   sessionStorage.setItem("hasilQuiz", JSON.stringify(hasil));
-  router.push(`/hasil/${route.params.id}`);
+  router.push(`/result/${route.params.id}`);
 };
 </script>
