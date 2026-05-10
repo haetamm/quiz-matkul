@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "soal": "soal...",
+    "a": "opsi a",
+    "b": "opsi b",
+    "c": "opsi c",
+    "d": "opsi d",
+    "e": "opsi e",
+    "jawaban": "a"
+  },
+  {
+    "id": 2,
+    "soal": "soal",
+    "a": "opsi a",
+    "b": "opsi b",
+    "c": "opsi c",
+    "d": "opsi d",
+    "e": "opsi e",
+    "jawaban": "c"
+  }
+]

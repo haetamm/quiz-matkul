@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "soal": "Sebuah perusahaan retail ingin menyimpan jutaan data transaksi harian dari seluruh cabangnya tanpa membeli server fisik tambahan. Solusi teknologi informasi yang paling tepat adalah...",
+    "a": "Edge Computing",
+    "b": "Green Computing",
+    "c": "Cloud Computing",
+    "d": "Quantum Computing",
+    "e": "Machine Learning",
+    "jawaban": "c"
+  },
+  {
+    "id": 2,
+    "soal": "Pada model layanan cloud computing, pelanggan hanya menyewa infrastruktur seperti storage dan processing power tanpa mengelola perangkat lunak di atasnya. Model layanan ini disebut...",
+    "a": "SaaS (Software as a Service)",
+    "b": "PaaS (Platform as a Service)",
+    "c": "IaaS (Infrastructure as a Service)",
+    "d": "DaaS (Data as a Service)",
+    "e": "NaaS (Network as a Service)",
+    "jawaban": "c"
+  },
+  {
+    "id": 3,
+    "soal": "Seorang developer ingin membangun aplikasi menggunakan infrastruktur cloud yang disediakan vendor, tanpa harus membangun server sendiri. Layanan cloud yang ia butuhkan adalah...",
+    "a": "IaaS",
+    "b": "SaaS",
+    "c": "PaaS",
+    "d": "BaaS",
+    "e": "CaaS",
+    "jawaban": "c"
+  },
+  {
+    "id": 4,
+    "soal": "Menurut teori Porter, perusahaan yang mampu menawarkan produk dengan harga paling rendah di industri menerapkan strategi...",
+    "a": "Diferensiasi",
+    "b": "Fokus pasar",
+    "c": "Cost Leadership",
+    "d": "Value Chain",
+    "e": "Blue Ocean",
+    "jawaban": "c"
+  },
+  {
+    "id": 5,
+    "soal": "Porter mengidentifikasi lima kekuatan kompetitif dalam suatu industri. Manakah yang BUKAN termasuk dalam lima kekuatan tersebut?",
+    "a": "Kekuatan tawar-menawar pemasok",
+    "b": "Ancaman pendatang baru",
+    "c": "Kekuatan tawar-menawar pembeli",
+    "d": "Kekuatan teknologi informasi perusahaan",
+    "e": "Ancaman produk substitusi",
+    "jawaban": "d"
+  },
+  {
+    "id": 6,
+    "soal": "Revolusi industri yang ditandai dengan penggunaan tenaga listrik dan transformasi masyarakat agraris menjadi masyarakat industri dikenal sebagai...",
+    "a": "Revolusi Industri 1.0",
+    "b": "Revolusi Industri 2.0",
+    "c": "Revolusi Industri 3.0",
+    "d": "Revolusi Industri 4.0",
+    "e": "Revolusi Industri 5.0",
+    "jawaban": "b"
+  },
+  {
+    "id": 7,
+    "soal": "Teknologi yang memungkinkan pengguna merasakan lingkungan tiga dimensi secara penuh seolah-olah berada di dunia virtual tersebut, contohnya flight simulator menggunakan headset khusus, disebut...",
+    "a": "Augmented Reality",
+    "b": "Mixed Reality",
+    "c": "Extended Reality",
+    "d": "Virtual Reality",
+    "e": "Spatial Computing",
+    "jawaban": "d"
+  },
+  {
+    "id": 8,
+    "soal": "Perbedaan utama antara Augmented Reality (AR) dan Virtual Reality (VR) adalah...",
+    "a": "AR menggunakan internet, VR tidak",
+    "b": "AR membaurkan dunia fisik dan digital, sedangkan VR menciptakan lingkungan digital sepenuhnya",
+    "c": "VR hanya untuk hiburan, AR untuk bisnis",
+    "d": "AR lebih mahal dari VR",
+    "e": "VR menggunakan AI, AR tidak",
+    "jawaban": "b"
+  },
+  {
+    "id": 9,
+    "soal": "Dalam prinsip CIA Triad pada Cyber Security, 'Integrity' merujuk pada...",
+    "a": "Data harus bisa diakses kapan saja oleh siapa saja",
+    "b": "Data harus dijaga kerahasiaannya dari pihak tidak berwenang",
+    "c": "Sistem dan data harus akurat, konsisten, dan terpercaya serta bebas dari gangguan",
+    "d": "Enkripsi data menggunakan algoritma terbaru",
+    "e": "Ketersediaan backup data secara rutin",
+    "jawaban": "c"
+  },
+  {
+    "id": 10,
+    "soal": "Sebuah perusahaan e-commerce mendapati bahwa servernya tidak dapat diakses selama 3 jam karena serangan DDoS. Prinsip CIA Triad mana yang paling terdampak?",
+    "a": "Confidentiality",
+    "b": "Integrity",
+    "c": "Availability",
+    "d": "Authentication",
+    "e": "Authorization",
+    "jawaban": "c"
+  },
+  {
+    "id": 11,
+    "soal": "Google membuktikan bahwa quantum computing mampu memecahkan masalah dalam hitungan menit yang biasanya membutuhkan waktu 10.000 tahun oleh komputer biasa. Keunggulan ini dimungkinkan karena quantum computing menggunakan...",
+    "a": "Processor dengan kecepatan lebih tinggi",
+    "b": "Qubits yang dapat berada dalam lebih dari satu keadaan secara bersamaan (superposisi)",
+    "c": "Sistem pendingin yang lebih efisien",
+    "d": "Algoritma machine learning yang canggih",
+    "e": "Koneksi internet berkecepatan tinggi",
+    "jawaban": "b"
+  },
+  {
+    "id": 12,
+    "soal": "Edge computing dikembangkan sebagai solusi untuk mengatasi kelemahan cloud computing. Kelemahan utama cloud computing yang ingin diatasi oleh edge computing adalah...",
+    "a": "Biaya penyimpanan yang mahal",
+    "b": "Kurangnya keamanan data",
+    "c": "Keterbatasan bandwidth dan tingginya latency",
+    "d": "Tidak bisa menyimpan big data",
+    "e": "Tidak mendukung IoT",
+    "jawaban": "c"
+  },
+  {
+    "id": 13,
+    "soal": "Bank BRI mengambil alih slot orbit satelit komunikasi dan mengoperasikan BRISat untuk memperkuat infrastruktur perbankannya. Dalam konteks keunggulan kompetitif, langkah ini termasuk...",
+    "a": "Keunggulan operasional",
+    "b": "Keunggulan taktis",
+    "c": "Keunggulan strategis",
+    "d": "Keunggulan fungsional",
+    "e": "Keunggulan diferensiasi",
+    "jawaban": "c"
+  },
+  {
+    "id": 14,
+    "soal": "Tokopedia dan Shopee memanfaatkan Google Analytics untuk menampilkan produk serupa kepada calon pembeli berdasarkan riwayat pencarian mereka. Keunggulan kompetitif yang diterapkan termasuk...",
+    "a": "Keunggulan strategis",
+    "b": "Keunggulan taktis",
+    "c": "Keunggulan operasional",
+    "d": "Keunggulan inovatif",
+    "e": "Keunggulan diferensiasi",
+    "jawaban": "c"
+  },
+  {
+    "id": 15,
+    "soal": "Komputer pertama di dunia yang bersifat elektronik penuh, dikembangkan oleh Angkatan Darat Amerika dan dapat diprogram ulang, bernama...",
+    "a": "IBM 360",
+    "b": "ARPANET",
+    "c": "ENIAC",
+    "d": "Deep Blue",
+    "e": "Turing Machine",
+    "jawaban": "c"
+  },
+  {
+    "id": 16,
+    "soal": "Protokol jaringan TCP/IP yang menjadi dasar internet modern dikembangkan sebagai bagian dari proyek riset militer Amerika bernama...",
+    "a": "CSNET",
+    "b": "ARPA",
+    "c": "IETF",
+    "d": "CERN",
+    "e": "NSF",
+    "jawaban": "b"
+  },
+  {
+    "id": 17,
+    "soal": "World Wide Web (WWW) pertama kali diperkenalkan oleh organisasi riset nuklir Eropa pada tahun 1992. Organisasi tersebut adalah...",
+    "a": "NSF",
+    "b": "ARPA",
+    "c": "IETF",
+    "d": "CERN",
+    "e": "InterNIC",
+    "jawaban": "d"
+  },
+  {
+    "id": 18,
+    "soal": "Indonesia pertama kali terdaftar dalam jaringan internet internasional pada tahun 1988 melalui pendaftaran IP bernama UI-NETLAB. Institusi yang memprakarsai hal ini adalah...",
+    "a": "Institut Teknologi Bandung (ITB)",
+    "b": "Universitas Gadjah Mada (UGM)",
+    "c": "Universitas Indonesia (UI)",
+    "d": "Badan Pengkajian dan Penerapan Teknologi (BPPT)",
+    "e": "Kementerian Komunikasi dan Informasi",
+    "jawaban": "c"
+  },
+  {
+    "id": 19,
+    "soal": "Satelit komunikasi pertama Indonesia yang diluncurkan dari Cape Canaveral pada tahun 1976 bernama...",
+    "a": "Nusantara Satu",
+    "b": "Garuda 1",
+    "c": "Telkom 1",
+    "d": "Palapa A-1",
+    "e": "INASAT-1",
+    "jawaban": "d"
+  },
+  {
+    "id": 20,
+    "soal": "Machine learning memiliki dua dasar teknik pembelajaran utama. Jika sebuah algoritma dilatih menggunakan data berlabel (labeled data) untuk membuat prediksi, teknik yang digunakan adalah...",
+    "a": "Unsupervised Learning",
+    "b": "Reinforcement Learning",
+    "c": "Supervised Learning",
+    "d": "Deep Learning",
+    "e": "Transfer Learning",
+    "jawaban": "c"
+  },
+  {
+    "id": 21,
+    "soal": "Superkomputer Deep Blue yang dibuat IBM pada tahun 1996 dirancang untuk bermain catur dan pernah mengalahkan grandmaster Garry Kasparov. Deep Blue merupakan contoh penerapan...",
+    "a": "Virtual Reality",
+    "b": "Cloud Computing",
+    "c": "Machine Learning",
+    "d": "Quantum Computing",
+    "e": "Edge Computing",
+    "jawaban": "c"
+  },
+  {
+    "id": 22,
+    "soal": "Dalam value chain analysis (VCA) Porter, aktivitas seperti pengadaan SDM, pengembangan teknologi, dan infrastruktur perusahaan termasuk ke dalam...",
+    "a": "Primary activities",
+    "b": "Supporting activities",
+    "c": "Core activities",
+    "d": "Strategic activities",
+    "e": "Operational activities",
+    "jawaban": "b"
+  },
+  {
+    "id": 23,
+    "soal": "Menurut Renald Kasali dalam 'The Great Shifting', transformasi bisnis dari product-based ke platform-based menyebabkan pergeseran peran teknologi informasi dalam value chain analysis, yaitu...",
+    "a": "Dari primary activity menjadi supporting activity",
+    "b": "Dari supporting activity menjadi primary activity",
+    "c": "Tetap sebagai supporting activity namun lebih penting",
+    "d": "Dihilangkan dari value chain",
+    "e": "Menjadi aktivitas independen di luar value chain",
+    "jawaban": "b"
+  },
+  {
+    "id": 24,
+    "soal": "Sebuah startup ingin memastikan website-nya muncul di halaman pertama Google ketika pengguna mencari kata kunci tertentu. Strategi yang paling tepat adalah...",
+    "a": "Cloud Computing",
+    "b": "Big Data Analytics",
+    "c": "Search Engine Optimization (SEO)",
+    "d": "Content Delivery Network",
+    "e": "Cyber Security",
+    "jawaban": "c"
+  },
+  {
+    "id": 25,
+    "soal": "Informasi yang disampaikan kepada pengambil keputusan harus sesuai dengan permasalahan yang sedang dihadapi. Dimensi informasi yang dimaksud adalah...",
+    "a": "Akurasi",
+    "b": "Relevansi",
+    "c": "Ketepatan waktu",
+    "d": "Kelengkapan",
+    "e": "Konsistensi",
+    "jawaban": "b"
+  },
+  {
+    "id": 26,
+    "soal": "Seorang CEO menerima laporan keuangan kuartal setelah keputusan investasi besar sudah diambil. Dimensi informasi mana yang dilanggar dalam kasus ini?",
+    "a": "Relevansi",
+    "b": "Akurasi",
+    "c": "Kelengkapan",
+    "d": "Ketepatan waktu (timeliness)",
+    "e": "Integritas",
+    "jawaban": "d"
+  },
+  {
+    "id": 27,
+    "soal": "Green Computing bertujuan untuk meminimalkan dampak negatif teknologi terhadap lingkungan. Praktik 'merekayasa komputer lama atau mendaur ulang perangkat elektronik yang sudah tidak digunakan' termasuk dalam...",
+    "a": "Green Use",
+    "b": "Green Design",
+    "c": "Green Disposal",
+    "d": "Green Manufacture",
+    "e": "Green Operation",
+    "jawaban": "c"
+  },
+  {
+    "id": 28,
+    "soal": "Sebuah perusahaan teknologi merancang laptop baru yang menggunakan energi lebih sedikit saat beroperasi. Ini merupakan contoh penerapan...",
+    "a": "Green Disposal",
+    "b": "Green Use",
+    "c": "Green Manufacture",
+    "d": "Green Design",
+    "e": "Green Computing Awareness",
+    "jawaban": "d"
+  },
+  {
+    "id": 29,
+    "soal": "Internet of Things (IoT) pada dasarnya adalah konsep di mana...",
+    "a": "Komputer dapat belajar dari data tanpa diprogram secara eksplisit",
+    "b": "Perangkat fisik apa pun dapat terhubung satu sama lain melalui jaringan internet",
+    "c": "Data diproses di tepi jaringan dekat sumber data",
+    "d": "Komputasi dilakukan menggunakan prinsip mekanika kuantum",
+    "e": "Perangkat lunak disediakan sebagai layanan melalui internet",
+    "jawaban": "b"
+  },
+  {
+    "id": 30,
+    "soal": "Dalam kondisi pasca-pandemi yang dicirikan dengan volatility, uncertainty, complexity, dan ambiguity (VUCA), elemen dari teori Porter yang masih dianggap paling relevan adalah...",
+    "a": "Five Forces Analysis",
+    "b": "Cost Leadership Strategy",
+    "c": "Value Chain Analysis (VCA)",
+    "d": "Differentiation Strategy",
+    "e": "Focus Strategy",
+    "jawaban": "c"
+  },
+  {
+    "id": 31,
+    "soal": "Alan Turing dan von Neumann adalah tokoh perintis yang berkontribusi dalam revolusi industri 3.0. Kontribusi von Neumann yang paling signifikan adalah...",
+    "a": "Menemukan internet",
+    "b": "Merintis arsitektur komputer modern yang menjadi embrio artificial intelligence",
+    "c": "Menciptakan bahasa pemrograman pertama",
+    "d": "Mengembangkan protokol TCP/IP",
+    "e": "Menciptakan mesin uap digital",
+    "jawaban": "b"
+  },
+  {
+    "id": 32,
+    "soal": "Artificial Intelligence memiliki tujuh cabang utama. Manakah yang merupakan cabang AI yang paling relevan ketika sebuah aplikasi mampu menganalisis dan merespons teks atau percakapan manusia?",
+    "a": "Vision",
+    "b": "Robotics",
+    "c": "Expert System",
+    "d": "Natural Language Processing",
+    "e": "Planning",
+    "jawaban": "d"
+  },
+  {
+    "id": 33,
+    "soal": "IKEA menggunakan teknologi yang memungkinkan calon pembeli melihat secara virtual bagaimana furnitur mereka akan tampak di dalam rumahnya sebelum membeli. Teknologi ini adalah...",
+    "a": "Virtual Reality",
+    "b": "Augmented Reality",
+    "c": "Mixed Reality",
+    "d": "3D Rendering",
+    "e": "Holographic Display",
+    "jawaban": "b"
+  },
+  {
+    "id": 34,
+    "soal": "Robot Sophia yang dikembangkan oleh Hanson Robotics mampu berinteraksi dengan manusia menggunakan kombinasi kamera, sensor, dan algoritma AI. Robot ini termasuk kategori...",
+    "a": "Industrial Robot",
+    "b": "Autonomous Vehicle",
+    "c": "Humanoid Robot",
+    "d": "Drone Robot",
+    "e": "Collaborative Robot",
+    "jawaban": "c"
+  },
+  {
+    "id": 35,
+    "soal": "Siaran radio pertama di Indonesia adalah Bataviase Radio Vereeniging (BRV) yang didirikan di Batavia pada tahun...",
+    "a": "1920",
+    "b": "1922",
+    "c": "1925",
+    "d": "1945",
+    "e": "1930",
+    "jawaban": "c"
+  },
+  {
+    "id": 36,
+    "soal": "Menurut data Januari 2023, urutan media sosial dengan pengguna aktif terbanyak di Indonesia adalah...",
+    "a": "Facebook, YouTube, WhatsApp, TikTok, Instagram",
+    "b": "YouTube, Facebook, WhatsApp, TikTok, Instagram",
+    "c": "WhatsApp, YouTube, Instagram, TikTok, Facebook",
+    "d": "TikTok, YouTube, Instagram, Facebook, WhatsApp",
+    "e": "Instagram, YouTube, Facebook, WhatsApp, TikTok",
+    "jawaban": "b"
+  },
+  {
+    "id": 37,
+    "soal": "Menurut data Februari 2023, platform e-commerce dengan jumlah pengunjung terbanyak di Indonesia adalah...",
+    "a": "Tokopedia",
+    "b": "Lazada",
+    "c": "Shopee",
+    "d": "Blibli",
+    "e": "Bukalapak",
+    "jawaban": "c"
+  },
+  {
+    "id": 38,
+    "soal": "Dalam sumber daya teknologi informasi perusahaan, profesional TI dan manajer yang memiliki kombinasi keterampilan teknologi, bisnis, dan antarpersonal termasuk dalam kategori...",
+    "a": "Infrastruktur Teknologi",
+    "b": "Sumber Daya Manusia",
+    "c": "Hubungan Bisnis/TI",
+    "d": "Aset Digital",
+    "e": "Kapabilitas Organisasi",
+    "jawaban": "b"
+  },
+  {
+    "id": 39,
+    "soal": "Kondisi di mana industri terus mengalami perubahan yang cepat, tidak terduga, dan sulit diprediksi sehingga perusahaan dipaksa melakukan transformasi digital secepat mungkin disebut...",
+    "a": "Blue Ocean Strategy",
+    "b": "Disruptive Era / VUCA",
+    "c": "Digital Transformation",
+    "d": "Shifting Paradigm",
+    "e": "Platform Economy",
+    "jawaban": "b"
+  },
+  {
+    "id": 40,
+    "soal": "Seorang manajer pemasaran ingin memahami perilaku pengunjung di website perusahaannya, seperti halaman mana yang paling sering dikunjungi. Tool yang paling tepat untuk keperluan ini adalah...",
+    "a": "Cloud Storage",
+    "b": "Google Analytics",
+    "c": "SEO Optimizer",
+    "d": "CRM Software",
+    "e": "ERP System",
+    "jawaban": "b"
+  },
+  {
+    "id": 41,
+    "soal": "Revolusi industri yang ditandai dengan kemunculan mesin uap oleh James Watt dan pergeseran dari ekonomi agraris ke ekonomi berbasis manufaktur dimulai sekitar tahun...",
+    "a": "1860-an",
+    "b": "1760-an",
+    "c": "1900-an",
+    "d": "1950-an",
+    "e": "2000-an",
+    "jawaban": "b"
+  },
+  {
+    "id": 42,
+    "soal": "Ketika sebuah perusahaan memiliki strategi bersaing yang menargetkan segmen pasar yang sangat sempit dan spesifik dengan kebutuhan konsumen yang tidak sensitif terhadap harga, Porter menyebutnya sebagai strategi...",
+    "a": "Cost Leadership",
+    "b": "Diferensiasi",
+    "c": "Fokus",
+    "d": "Value Chain",
+    "e": "Blue Ocean",
+    "jawaban": "c"
+  },
+  {
+    "id": 43,
+    "soal": "Perusahaan yang berhasil menjual produknya dengan harga premium karena memiliki ciri khas yang membedakan produknya dari pesaing menerapkan strategi...",
+    "a": "Cost Leadership",
+    "b": "Diferensiasi",
+    "c": "Fokus",
+    "d": "Penetrasi Pasar",
+    "e": "Skimming",
+    "jawaban": "b"
+  },
+  {
+    "id": 44,
+    "soal": "Fenomena munculnya perusahaan-perusahaan teknologi dari Asia seperti Samsung (Korea Selatan) dan perusahaan-perusahaan dari Cina dan India berdampak pada industri TI secara keseluruhan karena...",
+    "a": "Kualitas produk semakin menurun",
+    "b": "Industri TI menjadi semakin dinamis dan harga produk semakin terjangkau bagi konsumen",
+    "c": "Perusahaan Amerika mengalami kebangkrutan",
+    "d": "Inovasi teknologi melambat karena persaingan",
+    "e": "Monopoli perusahaan Amerika semakin kuat",
+    "jawaban": "b"
+  },
+  {
+    "id": 45,
+    "soal": "Teknologi big data analytics paling tepat digunakan untuk keperluan berikut, KECUALI...",
+    "a": "Mengetahui tren pasar berdasarkan data transaksi jutaan pelanggan",
+    "b": "Menganalisis preferensi pelanggan dari data media sosial",
+    "c": "Mengirim email kepada satu pelanggan secara manual",
+    "d": "Memonitor lalu lintas transaksi e-commerce setiap hari",
+    "e": "Mengidentifikasi pola pembelian untuk strategi pemasaran",
+    "jawaban": "c"
+  },
+  {
+    "id": 46,
+    "soal": "Dalam model kekuatan kompetitif untuk investasi infrastruktur TI, langkah 'membandingkan pengeluaran TI perusahaan dengan pesaing melalui laporan tahunan' termasuk ke dalam elemen...",
+    "a": "Penilaian teknologi informasi",
+    "b": "Strategi bisnis perusahaan",
+    "c": "Investasi infrastruktur TI perusahaan pesaing",
+    "d": "Permintaan pasar untuk layanan perusahaan",
+    "e": "Layanan perusahaan pesaing",
+    "jawaban": "c"
+  },
+  {
+    "id": 47,
+    "soal": "Konsep 'digital mindset' dalam konteks era disruptif dapat diartikan sebagai...",
+    "a": "Kemampuan menggunakan semua perangkat digital terbaru",
+    "b": "Kemampuan individu untuk melihat peluang menggabungkan teknologi dengan bisnis demi solusi inovatif",
+    "c": "Keharusan menguasai coding dan pemrograman",
+    "d": "Kebiasaan menggunakan media sosial setiap hari",
+    "e": "Kemampuan beradaptasi dengan perubahan hardware",
+    "jawaban": "b"
+  },
+  {
+    "id": 48,
+    "soal": "Untuk meningkatkan loyalitas pelanggan di era digital, salah satu strategi yang direkomendasikan adalah membuat omnichannel. Omnichannel berarti...",
+    "a": "Membuat satu saluran pemasaran yang sangat kuat",
+    "b": "Multi-saluran penjualan yang terintegrasi untuk memberikan pengalaman belanja yang mulus",
+    "c": "Menggunakan satu platform media sosial sebagai saluran utama",
+    "d": "Menggabungkan toko online dan offline secara terpisah",
+    "e": "Fokus hanya pada saluran digital",
+    "jawaban": "b"
+  },
+  {
+    "id": 49,
+    "soal": "Pada era Revolusi Industri 5.0, konsep industri yang diprediksi akan menjadi tonggak adalah...",
+    "a": "Industri berbasis mesin sepenuhnya tanpa campur tangan manusia",
+    "b": "Industri berbasis internet dan cloud computing",
+    "c": "Industri yang berpusat pada manusia sekaligus berbasis teknologi",
+    "d": "Industri yang sepenuhnya dikendalikan oleh AI",
+    "e": "Industri berbasis quantum computing",
+    "jawaban": "c"
+  },
+  {
+    "id": 50,
+    "soal": "Berikut adalah manfaat edge computing, KECUALI...",
+    "a": "Mengurangi biaya jaringan",
+    "b": "Mengatasi masalah bandwidth",
+    "c": "Mengurangi latency",
+    "d": "Meningkatkan kapasitas penyimpanan cloud secara otomatis",
+    "e": "Menghindari masalah kegagalan layanan",
+    "jawaban": "d"
+  },
+  {
+    "id": 51,
+    "soal": "Dalam konteks keamanan siber, serangan yang dilakukan dengan mengirimkan email palsu yang menyamar sebagai institusi terpercaya untuk mencuri data pengguna disebut...",
+    "a": "Spamming",
+    "b": "Virus",
+    "c": "Phishing",
+    "d": "Hoax",
+    "e": "Cyber-bullying",
+    "jawaban": "c"
+  },
+  {
+    "id": 52,
+    "soal": "Universitas Terbuka memutuskan memberikan akses layanan kepada mahasiswanya menggunakan database analytics yang dapat diakses dari semua media secara interaktif. Dalam konteks keunggulan kompetitif, ini merupakan contoh...",
+    "a": "Keunggulan strategis",
+    "b": "Keunggulan taktis",
+    "c": "Keunggulan operasional",
+    "d": "Keunggulan diferensiasi",
+    "e": "Keunggulan inovatif",
+    "jawaban": "b"
+  },
+  {
+    "id": 53,
+    "soal": "Dalam peta jalan revolusi industri, era milenial (tahun 2000-2005) ditandai dengan sejumlah inovasi besar. Manakah yang BUKAN termasuk inovasi era revolusi industri 4.0?",
+    "a": "Big Data Analysis",
+    "b": "Artificial Intelligence",
+    "c": "Augmented Reality",
+    "d": "Mesin Uap Industri",
+    "e": "Cyber Security",
+    "jawaban": "d"
+  },
+  {
+    "id": 54,
+    "soal": "Sebuah perusahaan memiliki informasi yang sangat lengkap tetapi menyajikannya dalam volume yang sangat besar sehingga membingungkan pengambil keputusan. Kondisi ini dalam dimensi informasi disebut...",
+    "a": "Information gap",
+    "b": "Information overload",
+    "c": "Information asymmetry",
+    "d": "Information noise",
+    "e": "Information latency",
+    "jawaban": "b"
+  },
+  {
+    "id": 55,
+    "soal": "Seorang content creator yang membuat video tutorial di YouTube dan mendapatkan penghasilan dari iklan merupakan contoh penerapan sikap...",
+    "a": "Bijak menggunakan teknologi informasi",
+    "b": "Beradaptasi dengan teknologi informasi",
+    "c": "Membuat inovasi terkait teknologi informasi",
+    "d": "Memanfaatkan teknologi informasi secara optimal",
+    "e": "Mendapatkan pengetahuan tentang teknologi informasi",
+    "jawaban": "c"
+  },
+  {
+    "id": 56,
+    "soal": "Dalam pengelolaan rantai pasokan (supply chain management), Porter menyatakan bahwa keberhasilan perusahaan sangat ditentukan oleh hubungan baik antara perusahaan dengan...",
+    "a": "Pemerintah dan regulator saja",
+    "b": "Karyawan internal saja",
+    "c": "Pemasok dan pelanggannya",
+    "d": "Investor dan pemegang saham",
+    "e": "Pesaing di industri yang sama",
+    "jawaban": "c"
+  },
+  {
+    "id": 57,
+    "soal": "Local SEO berbeda dengan Technical SEO karena Local SEO berfokus pada...",
+    "a": "Optimasi kecepatan loading website",
+    "b": "Pembuatan konten berkualitas tinggi",
+    "c": "Peningkatan visibilitas bisnis pada hasil pencarian di lokasi setempat",
+    "d": "Pembangunan backlink dari website lain",
+    "e": "Optimasi struktur kode HTML website",
+    "jawaban": "c"
+  },
+  {
+    "id": 58,
+    "soal": "Salah satu karakter kawasan Silicon Valley di California yang menjadikannya pusat inovasi teknologi dunia adalah...",
+    "a": "Hanya diperbolehkan untuk perusahaan teknologi Amerika",
+    "b": "Merupakan kawasan yang menyediakan ekosistem infrastruktur untuk merealisasikan ide-ide inovatif",
+    "c": "Dikelola langsung oleh pemerintah federal AS",
+    "d": "Fokus hanya pada pengembangan perangkat keras",
+    "e": "Memberikan subsidi gratis kepada semua startup",
+    "jawaban": "b"
+  },
+  {
+    "id": 59,
+    "soal": "Project management dalam konteks teknologi informasi mencakup proses dari perencanaan hingga evaluasi. Manakah contoh yang paling tepat untuk proyek TI?",
+    "a": "Rekrutmen karyawan baru bagian pemasaran",
+    "b": "Instalasi dan konfigurasi jaringan komputer baru di kantor pusat",
+    "c": "Pelatihan soft skills untuk manajer tingkat menengah",
+    "d": "Penyusunan laporan keuangan tahunan",
+    "e": "Pengembangan strategi pemasaran digital",
+    "jawaban": "b"
+  },
+  {
+    "id": 60,
+    "soal": "Dalam tiga sumber daya TI perusahaan versi Porter, 'menjalin hubungan antara unit bisnis dan tim TI untuk memastikan keselarasan kebutuhan bisnis dengan kapabilitas teknologi' termasuk dalam...",
+    "a": "Infrastruktur Teknologi",
+    "b": "Sumber Daya Manusia",
+    "c": "Hubungan Bisnis/Teknologi Informasi",
+    "d": "Strategi Digital",
+    "e": "Tata Kelola TI",
+    "jawaban": "c"
+  },
+  {
+    "id": 61,
+    "soal": "Menurut Peter Senge (1990), berpikir sistem (systems thinking) mencakup tiga hal. Manakah yang BUKAN termasuk di antaranya?",
+    "a": "Disiplin untuk melihat keutuhan",
+    "b": "Kerangka kerja untuk melihat hubungan timbal balik terhadap hal-hal tertentu",
+    "c": "Penangkal rasa ketidakberdayaan saat menghadapi kerumitan",
+    "d": "Metode untuk mengotomatisasi proses bisnis secara radikal",
+    "e": "Semua jawaban di atas termasuk dalam berpikir sistem",
+    "jawaban": "d"
+  },
+  {
+    "id": 62,
+    "soal": "Definisi sistem yang paling tepat adalah...",
+    "a": "Sekumpulan data yang diproses menjadi informasi yang berguna",
+    "b": "Seperangkat komponen yang saling terkait dan harus bekerja sama untuk mencapai tujuan bersama",
+    "c": "Teknologi komputer yang digunakan untuk mendistribusikan informasi",
+    "d": "Proses pengambilan keputusan berbasis data dalam organisasi",
+    "e": "Infrastruktur jaringan yang menghubungkan berbagai perangkat",
+    "jawaban": "b"
+  },
+  {
+    "id": 63,
+    "soal": "Menurut Tarhan, McLean, dan Waterbe (2001), Sistem Informasi Manajemen (SIM) adalah sistem yang mengumpulkan, memproses, menyimpan, menganalisis, dan menyebarkan informasi. Manakah yang merupakan tujuan SIM?",
+    "a": "Menyediakan informasi untuk perencanaan, pengendalian, pengevaluasian, dan perbaikan berkelanjutan",
+    "b": "Menggantikan peran manajer dalam pengambilan keputusan strategis",
+    "c": "Meminimalkan penggunaan teknologi dalam proses bisnis",
+    "d": "Mengotomatisasi seluruh operasional perusahaan tanpa intervensi manusia",
+    "e": "Meningkatkan keuntungan perusahaan secara langsung melalui penjualan data",
+    "jawaban": "a"
+  },
+  {
+    "id": 64,
+    "soal": "Dalam tujuh elemen utama sistem, elemen yang menggambarkan segala sesuatu di luar sistem yang menyediakan asumsi, kendala, dan masukan ke sistem disebut...",
+    "a": "Boundary",
+    "b": "Input",
+    "c": "Interface",
+    "d": "Environment",
+    "e": "Component",
+    "jawaban": "d"
+  },
+  {
+    "id": 65,
+    "soal": "Elemen sistem yang berfungsi sebagai area penyimpanan sementara dan permanen, serta menyediakan penyangga antara komponen sistem agar dapat bekerja pada waktu yang berbeda, adalah...",
+    "a": "Interface",
+    "b": "Output",
+    "c": "Storage",
+    "d": "Boundary",
+    "e": "Component",
+    "jawaban": "c"
+  },
+  {
+    "id": 66,
+    "soal": "Sebuah perusahaan membangun sistem informasi baru. Tim proyek memutuskan untuk menentukan dengan jelas mana aktivitas yang masuk dalam lingkup sistem dan mana yang tidak. Konsep sistem yang sedang diterapkan adalah...",
+    "a": "Dekomposisi sistem",
+    "b": "Interface sistem",
+    "c": "Batas sistem (system boundary)",
+    "d": "Storage sistem",
+    "e": "Environment sistem",
+    "jawaban": "c"
+  },
+  {
+    "id": 67,
+    "soal": "Salah satu tujuan penting dari dekomposisi hierarkis sistem adalah agar komponen bermasalah dapat diisolasi dan diperbaiki dengan dampak minimal pada komponen lain. Tujuan ini dikenal sebagai...",
+    "a": "Simplifikasi sistem",
+    "b": "Isolasi komponen",
+    "c": "Agar komponen sistem dapat beroperasi lebih mandiri",
+    "d": "Reduksi kompleksitas",
+    "e": "Modularisasi sistem",
+    "jawaban": "c"
+  },
+  {
+    "id": 68,
+    "soal": "Dalam kerangka Berlian Leavitt, ada empat komponen mendasar organisasi yang harus bekerja bersama agar organisasi efektif. Manakah yang BUKAN termasuk keempat komponen tersebut?",
+    "a": "Orang",
+    "b": "Teknologi Informasi",
+    "c": "Proses Bisnis",
+    "d": "Struktur Organisasi",
+    "e": "Modal Finansial",
+    "jawaban": "e"
+  },
+  {
+    "id": 69,
+    "soal": "Computer-Based Information System (CBIS) dikembangkan dengan tujuan utama untuk...",
+    "a": "Menggantikan tenaga kerja manusia sepenuhnya",
+    "b": "Memberikan solusi pada permasalahan bisnis menggunakan teknologi komputer dan telekomunikasi",
+    "c": "Menyimpan data sebanyak mungkin di server perusahaan",
+    "d": "Membuat laporan keuangan secara otomatis",
+    "e": "Meningkatkan keamanan jaringan perusahaan",
+    "jawaban": "b"
+  },
+  {
+    "id": 70,
+    "soal": "Dalam proses analisis dan desain sistem (SA&D), prinsip 'logis sebelum fisik' berarti...",
+    "a": "Hardware harus dipilih sebelum software dikembangkan",
+    "b": "Kita harus mengetahui apa yang harus dilakukan sistem sebelum menentukan bagaimana sistem beroperasi",
+    "c": "Desain database harus diselesaikan sebelum antarmuka pengguna dibuat",
+    "d": "Dokumentasi harus dibuat sebelum pengkodean dimulai",
+    "e": "Biaya sistem harus dihitung sebelum implementasi dimulai",
+    "jawaban": "b"
+  },
+  {
+    "id": 71,
+    "soal": "Business Process Reengineering (BPR) yang dikembangkan pada awal 1990-an pada dasarnya adalah...",
+    "a": "Perbaikan bertahap dan inkremental pada proses bisnis yang sudah ada",
+    "b": "Inisiatif desain ulang bisnis radikal yang mencapai peningkatan dramatis dengan mempertanyakan asumsi bisnis yang mendasar",
+    "c": "Penerapan teknologi baru ke dalam proses bisnis lama tanpa mengubah strukturnya",
+    "d": "Penggabungan dua atau lebih departemen untuk efisiensi operasional",
+    "e": "Otomatisasi proses administrasi menggunakan perangkat lunak ERP",
+    "jawaban": "b"
+  },
+  {
+    "id": 72,
+    "soal": "Hammer (1990) mengajukan prinsip BPR yang menyatakan bahwa informasi harus diproses pada sumbernya. Di perusahaan Ford, ini berarti departemen penerimaan barang yang menghasilkan data tentang barang diterima juga harus memasukkan data tersebut. Prinsip BPR yang diterapkan adalah...",
+    "a": "Atur proses bisnis di sekitar hasil, bukan tugas",
+    "b": "Mengintegrasikan pemrosesan informasi ke dalam pekerjaan yang menghasilkan informasi",
+    "c": "Membuat perusahaan virtual dengan sumber daya terdistribusi",
+    "d": "Menghubungkan aktivitas paralel",
+    "e": "Tetapkan mereka yang menggunakan output untuk melakukan proses",
+    "jawaban": "b"
+  },
+  {
+    "id": 73,
+    "soal": "Prinsip BPR yang menyatakan bahwa perbedaan antara sentralisasi dan desentralisasi adalah artifisial karena teknologi seperti telekonferensi dan email dapat mengompresi waktu dan ruang, merupakan prinsip...",
+    "a": "Menghubungkan aktivitas paralel daripada mengintegrasikan hasilnya",
+    "b": "Atur proses bisnis di sekitar hasil, bukan tugas",
+    "c": "Membuat perusahaan virtual dengan memperlakukan sumber daya yang terdistribusi secara geografis seolah-olah terpusat",
+    "d": "Orang yang melakukan pekerjaan membuat semua keputusan",
+    "e": "Tetapkan mereka yang menggunakan output untuk melakukan proses",
+    "jawaban": "c"
+  },
+  {
+    "id": 74,
+    "soal": "Dalam pembuatan Data Flow Diagram (DFD), simbol yang digunakan untuk menggambarkan data yang sedang bergerak antara entitas dan proses adalah...",
+    "a": "Kotak entitas eksternal",
+    "b": "Lingkaran proses",
+    "c": "Segi empat data store",
+    "d": "Panah aliran data",
+    "e": "Segitiga interface",
+    "jawaban": "d"
+  },
+  {
+    "id": 75,
+    "soal": "Dalam DFD, entitas eksternal diberi label kata benda dan memiliki batasan yang jelas. Pernyataan yang BENAR tentang entitas eksternal adalah...",
+    "a": "Entitas eksternal dapat mengakses data langsung dalam sistem",
+    "b": "Entitas eksternal tidak boleh memiliki aliran data ke entitas eksternal lain yang ditampilkan",
+    "c": "Entitas eksternal harus selalu berada di dalam batas sistem",
+    "d": "Entitas eksternal hanya bisa memberikan input, tidak bisa menerima output",
+    "e": "Entitas eksternal memiliki label kata kerja",
+    "jawaban": "b"
+  },
+  {
+    "id": 76,
+    "soal": "Data dictionary/directory (DD/D) dalam pemodelan sistem digunakan untuk...",
+    "a": "Menyimpan seluruh kode program aplikasi",
+    "b": "Menjaga metadata selengkap mungkin dan menjawab pertanyaan tentang elemen data",
+    "c": "Mendokumentasikan anggaran proyek pengembangan sistem",
+    "d": "Mencatat log aktivitas pengguna dalam sistem",
+    "e": "Mengatur hak akses pengguna ke dalam database",
+    "jawaban": "b"
+  },
+  {
+    "id": 77,
+    "soal": "Pendekatan object-oriented (OO) menjadi populer pada tahun 1990-an. Salah satu keunggulan utama pendekatan ini dibanding pendekatan prosedural adalah...",
+    "a": "Lebih mudah dipahami oleh pengguna akhir yang bukan programmer",
+    "b": "Kemampuan untuk menggunakan kembali (reuse) objek yang sudah diprogram",
+    "c": "Tidak membutuhkan dokumentasi sistem yang lengkap",
+    "d": "Lebih cepat dalam eksekusi program dibanding bahasa prosedural",
+    "e": "Tidak memerlukan pengujian sistem secara menyeluruh",
+    "jawaban": "b"
+  },
+  {
+    "id": 78,
+    "soal": "Dalam konsep object-oriented, prinsip di mana kelas objek dapat mewarisi atribut dan operasi dari kelas objek lain disebut...",
+    "a": "Encapsulation",
+    "b": "Polymorphism",
+    "c": "Abstraction",
+    "d": "Inheritance (warisan)",
+    "e": "Instantiation",
+    "jawaban": "d"
+  },
+  {
+    "id": 79,
+    "soal": "Dalam pengendalian sistem informasi, penggunaan standar metodologi pengembangan bertujuan untuk...",
+    "a": "Mempercepat proses pengkodean tanpa melalui tahap analisis",
+    "b": "Menghindari kesalahan dengan metode yang dapat digunakan kembali serta memastikan dokumentasi yang lengkap",
+    "c": "Mengurangi biaya hardware yang dibutuhkan",
+    "d": "Memastikan sistem informasi selalu terhubung ke internet",
+    "e": "Mempermudah proses rekrutmen programmer baru",
+    "jawaban": "b"
+  },
+  {
+    "id": 80,
+    "soal": "Sebuah sistem informasi mengalami serangan siber yang mengakibatkan data pelanggan tersebar ke publik. Risiko ini termasuk kategori...",
+    "a": "Risiko dari bencana alam",
+    "b": "Risiko dari perubahan staf",
+    "c": "Risiko dari tindakan kriminal",
+    "d": "Risiko kegagalan perangkat keras",
+    "e": "Risiko kekurangan manajemen proyek",
+    "jawaban": "c"
+  },
+  {
+    "id": 81,
+    "soal": "Dalam kontrol tahap implementasi sistem informasi, mekanisme 'mencadangkan salinan file secara berkala dan menyimpannya di lokasi terpisah seperti brankas bank' termasuk ke dalam...",
+    "a": "Keamanan (security)",
+    "b": "Cadangan dan pemulihan (backup and recovery)",
+    "c": "Audit sistem",
+    "d": "Validasi data",
+    "e": "Pengujian sistem",
+    "jawaban": "b"
+  },
+  {
+    "id": 82,
+    "soal": "Audit sistem informasi di banyak perusahaan masih disebut sebagai 'audit EDP'. EDP adalah singkatan dari...",
+    "a": "Extended Data Processing",
+    "b": "Electronic Data Processing",
+    "c": "Enterprise Data Platform",
+    "d": "Electronic Data Protection",
+    "e": "Enhanced Digital Programming",
+    "jawaban": "b"
+  },
+  {
+    "id": 83,
+    "soal": "Komponen dasar sistem komputer yang berfungsi melakukan operasi penjumlahan, pengurangan, perkalian, pembagian, dan logika perbandingan adalah...",
+    "a": "Control Unit (CU)",
+    "b": "Cache Memory",
+    "c": "Arithmetic Logical Unit (ALU)",
+    "d": "RAM",
+    "e": "ROM",
+    "jawaban": "c"
+  },
+  {
+    "id": 84,
+    "soal": "Perbedaan mendasar antara RAM dan ROM dalam sistem komputer adalah...",
+    "a": "RAM lebih cepat dari ROM dalam semua operasi",
+    "b": "RAM bersifat penyimpanan sementara (hilang saat dimatikan), sedangkan ROM bersifat permanen untuk menyimpan firmware/BIOS",
+    "c": "ROM dapat ditulis dan dibaca, sedangkan RAM hanya bisa dibaca",
+    "d": "RAM digunakan untuk menyimpan sistem operasi, sedangkan ROM untuk data pengguna",
+    "e": "Keduanya sama, hanya berbeda dalam kapasitas penyimpanan",
+    "jawaban": "b"
+  },
+  {
+    "id": 85,
+    "soal": "Cache memory dalam sistem komputer berfungsi untuk...",
+    "a": "Menyimpan data permanen yang tidak akan hilang saat komputer dimatikan",
+    "b": "Menyediakan akses data berkecepatan tinggi ke prosesor dengan menyimpan program dan data yang sering digunakan",
+    "c": "Mencadangkan data dari hard drive secara otomatis",
+    "d": "Menghubungkan CPU dengan perangkat input/output",
+    "e": "Menjalankan sistem operasi saat komputer pertama kali dihidupkan",
+    "jawaban": "b"
+  },
+  {
+    "id": 86,
+    "soal": "Metode akses file di mana setiap unit record dilengkapi dengan alamat unik berdasarkan lokasinya, sehingga memungkinkan akses langsung tanpa membaca record sebelumnya, adalah...",
+    "a": "Sequential access",
+    "b": "Associative access",
+    "c": "Random access",
+    "d": "Direct access",
+    "e": "Linear access",
+    "jawaban": "d"
+  },
+  {
+    "id": 87,
+    "soal": "Sebuah perusahaan memproses data gaji karyawan secara berurutan dari awal file hingga akhir setiap bulan. Metode akses file yang paling sesuai digunakan adalah...",
+    "a": "Random access",
+    "b": "Direct access",
+    "c": "Sequential access",
+    "d": "Associative access",
+    "e": "Cache access",
+    "jawaban": "c"
+  },
+  {
+    "id": 88,
+    "soal": "Dalam kategori tipe komputer, sistem yang dirancang khusus untuk menangani masalah intensif numerik seperti simulasi cuaca, penelitian kimia, dan fisika nuklir adalah...",
+    "a": "Mikrokomputer",
+    "b": "Mainframe",
+    "c": "Minikomputer/Midrange",
+    "d": "Superkomputer",
+    "e": "Server",
+    "jawaban": "d"
+  },
+  {
+    "id": 89,
+    "soal": "Mainframe komputer paling tepat digunakan oleh...",
+    "a": "Individu/personal untuk kebutuhan sehari-hari",
+    "b": "Perusahaan kecil dan menengah untuk akuntansi",
+    "c": "Perusahaan besar dan lembaga pemerintah yang membutuhkan komputasi skala besar",
+    "d": "Peneliti ilmiah untuk simulasi fisika",
+    "e": "Sekolah dan universitas untuk pembelajaran",
+    "jawaban": "c"
+  },
+  {
+    "id": 90,
+    "soal": "Dalam jenis perangkat lunak, perbedaan utama antara application software dan supporting software adalah...",
+    "a": "Application software lebih mahal dari supporting software",
+    "b": "Application software ditulis untuk menyelesaikan tugas spesifik bagi pengguna, sedangkan supporting software bekerja di balik layar mendukung aplikasi",
+    "c": "Supporting software hanya dapat berjalan di mainframe, application software di PC",
+    "d": "Application software dibuat oleh vendor, supporting software dibuat sendiri oleh perusahaan",
+    "e": "Supporting software membutuhkan koneksi internet, application software tidak",
+    "jawaban": "b"
+  },
+  {
+    "id": 91,
+    "soal": "Produk spreadsheet yang menjadi pelopor pada era 1980-an sebelum akhirnya digantikan oleh Microsoft Excel adalah...",
+    "a": "dBase",
+    "b": "WordPerfect",
+    "c": "Lotus 1-2-3",
+    "d": "SuperCalc",
+    "e": "Jawaban c dan d benar",
+    "jawaban": "e"
+  },
+  {
+    "id": 92,
+    "soal": "Sistem operasi Microsoft Windows versi pertama dirilis pada tahun...",
+    "a": "1981",
+    "b": "1983",
+    "c": "1985",
+    "d": "1990",
+    "e": "1995",
+    "jawaban": "c"
+  },
+  {
+    "id": 93,
+    "soal": "Bahasa pemrograman COBOL diterima secara luas di dunia bisnis karena alasan berikut, KECUALI...",
+    "a": "Bersifat standar",
+    "b": "Memiliki kemampuan manajemen data yang kuat",
+    "c": "Relatif mudah dipelajari dan digunakan",
+    "d": "Dikembangkan khusus untuk komputasi ilmiah dan matematika",
+    "e": "Didirikan pada tahun 1960-an oleh komite industri komputer",
+    "jawaban": "d"
+  },
+  {
+    "id": 94,
+    "soal": "Bahasa pemrograman generasi keempat (4GL) disebut juga sebagai bahasa nonprosedural karena...",
+    "a": "Tidak dapat digunakan untuk membuat program yang kompleks",
+    "b": "Pengguna hanya menyatakan apa yang ingin dicapai tanpa menjelaskan bagaimana langkah-langkahnya",
+    "c": "Tidak memerlukan compiler untuk dijalankan",
+    "d": "Hanya bisa digunakan oleh programmer berpengalaman",
+    "e": "Dijalankan langsung oleh hardware tanpa sistem operasi",
+    "jawaban": "b"
+  },
+  {
+    "id": 95,
+    "soal": "HTML (HyperText Markup Language) digunakan secara khusus untuk...",
+    "a": "Membuat program aplikasi bisnis yang kompleks",
+    "b": "Mengelola database relasional di server",
+    "c": "Membuat halaman world wide web (www) dengan kode khusus untuk struktur konten",
+    "d": "Mengamankan transmisi data melalui jaringan",
+    "e": "Mengembangkan sistem operasi berbasis web",
+    "jawaban": "c"
+  },
+  {
+    "id": 96,
+    "soal": "Java (Javascript) memiliki keistimewaan sebagai bahasa pemrograman yang 'platform-independent'. Artinya...",
+    "a": "Java hanya bisa dijalankan di sistem operasi Windows",
+    "b": "Program Java dapat dijalankan di berbagai jenis sistem operasi tanpa perlu dikompilasi ulang",
+    "c": "Java tidak memerlukan jaringan internet untuk berjalan",
+    "d": "Java dikembangkan tanpa mempertimbangkan platform hardware",
+    "e": "Program Java tidak bisa diintegrasikan dengan bahasa lain",
+    "jawaban": "b"
+  },
+  {
+    "id": 97,
+    "soal": "Computer-Aided Software Engineering (CASE) adalah perangkat lunak yang digunakan untuk...",
+    "a": "Menggantikan programmer dalam menulis kode secara otomatis penuh",
+    "b": "Membantu mengotomatisasi semua fase siklus hidup pengembangan perangkat lunak",
+    "c": "Mengelola proyek konstruksi dan teknik sipil berbasis komputer",
+    "d": "Melakukan audit keamanan pada sistem yang sudah berjalan",
+    "e": "Menyediakan layanan cloud computing untuk tim pengembang",
+    "jawaban": "b"
+  },
+  {
+    "id": 98,
+    "soal": "UML (Unified Modelling Language) yang menjadi dasar alat CASE berorientasi objek adalah...",
+    "a": "Bahasa pemrograman generasi kelima untuk AI",
+    "b": "Bahasa notasi untuk menentukan dan memvisualisasikan sistem perangkat lunak yang kompleks",
+    "c": "Standar internasional untuk keamanan database",
+    "d": "Protokol komunikasi jaringan komputer generasi terbaru",
+    "e": "Framework untuk manajemen proyek teknologi informasi",
+    "jawaban": "b"
+  },
+  {
+    "id": 99,
+    "soal": "File Transfer Protocol (FTP) dirancang dengan tujuan utama untuk...",
+    "a": "Mengamankan komunikasi email di jaringan publik",
+    "b": "Mentransfer file dari satu sistem komputer ke sistem komputer lainnya",
+    "c": "Mengelola koneksi antara server web dan browser pengguna",
+    "d": "Memvalidasi identitas pengguna sebelum mengakses sistem",
+    "e": "Mengompresi data besar sebelum dikirim melalui jaringan",
+    "jawaban": "b"
+  },
+  {
+    "id": 100,
+    "soal": "Sebuah perusahaan mengalami kegagalan sistem karena file data terkontaminasi. Mekanisme kontrol yang dapat memulihkan kondisi ini paling cepat adalah...",
+    "a": "Pengujian sistem ulang secara menyeluruh",
+    "b": "Audit EDP formal oleh tim eksternal",
+    "c": "Pemulihan dari salinan cadangan (backup and recovery) yang disimpan di lokasi terpisah",
+    "d": "Reinstalasi sistem operasi dari awal",
+    "e": "Penerapan aturan validasi data baru",
+    "jawaban": "c"
+  },
+  {
+    "id": 101,
+    "soal": "Dalam siklus hidup pengembangan sistem (SDLC), tahap di mana pengguna akhir dan analis sistem melakukan analisis operasi bisnis saat ini disebut tahap...",
+    "a": "Implementasi",
+    "b": "Konstruksi",
+    "c": "Definisi",
+    "d": "Pemeliharaan",
+    "e": "Testing",
+    "jawaban": "c"
+  },
+  {
+    "id": 102,
+    "soal": "Pada tahap konstruksi dalam SDLC, aktivitas utama yang dilakukan adalah...",
+    "a": "Mengidentifikasi kebutuhan pengguna dan mendokumentasikan proses bisnis",
+    "b": "Merancang, membangun, dan menguji sistem yang memenuhi persyaratan dari tahap definisi",
+    "c": "Menginstal sistem baru dan melatih pengguna",
+    "d": "Melakukan audit keamanan pada sistem yang sudah berjalan",
+    "e": "Mendefinisikan ruang lingkup dan batasan sistem",
+    "jawaban": "b"
+  },
+  {
+    "id": 103,
+    "soal": "Dalam konteks sistem formal dan informal organisasi, sistem informal berkembang ketika...",
+    "a": "Perusahaan memutuskan menghapus sistem lama",
+    "b": "Ada kekurangan dalam sistem formal atau sistem formal belum disesuaikan dengan perubahan situasi bisnis",
+    "c": "Manajemen puncak memutuskan perlu inovasi baru",
+    "d": "Sistem informasi mengalami kegagalan teknis",
+    "e": "Karyawan baru bergabung dan membawa kebiasaan dari perusahaan sebelumnya",
+    "jawaban": "b"
+  },
+  {
+    "id": 104,
+    "soal": "Proses mengidentifikasi inti perusahaan menurut Keen (1997) adalah tugas analitis utama. Sebuah perusahaan manufaktur tipikal memiliki enam proses inti. Manakah yang BUKAN termasuk proses inti tersebut?",
+    "a": "Merasakan pasar",
+    "b": "Mengembangkan produk",
+    "c": "Mengelola sumber daya manusia",
+    "d": "Memproduksi produk",
+    "e": "Memenuhi pesanan pelanggan",
+    "jawaban": "c"
+  },
+  {
+    "id": 105,
+    "soal": "Dalam tiga peran SIM terhadap organisasi, 'memperkenalkan inovasi bisnis' mencakup hal berikut, KECUALI...",
+    "a": "Produk atau jasa baru",
+    "b": "Pasar dan usaha baru",
+    "c": "Produksi, distribusi, atau proses baru",
+    "d": "Menurunkan biaya operasi",
+    "e": "Semua jawaban di atas merupakan bagian dari inovasi bisnis",
+    "jawaban": "d"
+  },
+  {
+    "id": 106,
+    "soal": "Dalam pemodelan logical to-be, model yang dihasilkan adalah abstraksi yang mengidentifikasi proses dan data tanpa mengacu pada siapa, di mana, atau teknologi apa yang digunakan. Model ini berfokus pada...",
+    "a": "Bagaimana sistem akan diimplementasikan secara teknis",
+    "b": "Apa yang harus dilakukan sistem, bukan bagaimana melakukannya",
+    "c": "Biaya yang dibutuhkan untuk membangun sistem",
+    "d": "Siapa yang bertanggung jawab atas setiap proses bisnis",
+    "e": "Teknologi hardware dan software yang akan digunakan",
+    "jawaban": "b"
+  },
+  {
+    "id": 107,
+    "soal": "Sebuah antarmuka (interface) dalam sistem informasi memiliki tujuan penting yang disebut 'decoupling'. Manfaat utama decoupling adalah...",
+    "a": "Menggabungkan semua komponen menjadi satu kesatuan yang tidak terpisahkan",
+    "b": "Memisahkan komponen agar jika satu komponen gagal, komponen lain tetap bisa berfungsi dan dapat dimodifikasi secara independen",
+    "c": "Mempercepat aliran data antarkomponen sistem",
+    "d": "Mengurangi kebutuhan storage dalam sistem",
+    "e": "Memudahkan pengujian keamanan sistem",
+    "jawaban": "b"
+  },
+  {
+    "id": 108,
+    "soal": "Salah satu prinsip BPR Hammer adalah 'minta orang yang melakukan pekerjaan membuat semua keputusan'. Dampak utama penerapan prinsip ini terhadap struktur organisasi adalah...",
+    "a": "Penambahan lapisan manajemen baru yang lebih terstruktur",
+    "b": "Pemusatan kekuasaan di tangan manajer puncak",
+    "c": "Pengurangan drastis lapisan manajemen dan pemberdayaan karyawan",
+    "d": "Otomatisasi penuh tanpa keterlibatan karyawan",
+    "e": "Peningkatan kebutuhan supervisor di setiap lini",
+    "jawaban": "c"
+  },
+  {
+    "id": 109,
+    "soal": "Optical Character Recognition (OCR) dan barcode scanner termasuk jenis media...",
+    "a": "Output komputer",
+    "b": "Storage komputer",
+    "c": "Input komputer",
+    "d": "Processing unit komputer",
+    "e": "Interface komputer",
+    "jawaban": "c"
+  },
+  {
+    "id": 110,
+    "soal": "Central Processing Unit (CPU) terdiri dari dua komponen utama yang bekerja bersama. Kedua komponen tersebut adalah...",
+    "a": "RAM dan ROM",
+    "b": "Hard Disk dan Cache Memory",
+    "c": "Control Unit (CU) dan Arithmetic Logical Unit (ALU)",
+    "d": "Input Device dan Output Device",
+    "e": "Motherboard dan Power Supply",
+    "jawaban": "c"
+  },
+  {
+    "id": 111,
+    "soal": "XML (eXtensible Markup Language) berbeda dari HTML karena XML digunakan untuk...",
+    "a": "Membuat tampilan visual halaman web yang lebih menarik",
+    "b": "Memfasilitasi pertukaran data antaraplikasi di web sebagai standar metabahasa",
+    "c": "Mengamankan transmisi data melalui enkripsi",
+    "d": "Membuat animasi dan multimedia pada halaman web",
+    "e": "Mengelola basis data relasional secara langsung",
+    "jawaban": "b"
+  },
+  {
+    "id": 112,
+    "soal": "Dalam konteks pengembangan sistem informasi, sistem informasi berbasis komputer (CBIS) diharapkan memiliki kemampuan kompetitif. Manakah yang BUKAN termasuk kemampuan tersebut?",
+    "a": "Kecepatan dan keakuratan proses transaksi",
+    "b": "Kemampuan penyimpanan data dalam jumlah besar dan kemudahan akses",
+    "c": "Dukungan untuk pengambilan keputusan manajerial",
+    "d": "Menggantikan semua karyawan dengan otomatisasi penuh",
+    "e": "Otomatisasi pekerjaan dalam proses bisnis yang masih manual",
+    "jawaban": "d"
+  },
+  {
+    "id": 113,
+    "soal": "Bahasa C dikembangkan oleh Dennis Ritchie dan Brian Kernighan pada 1970-an. Karakteristik khusus bahasa C yang membedakannya dari bahasa prosedural lainnya adalah...",
+    "a": "Sangat mudah dipelajari karena mirip bahasa Inggris sehari-hari",
+    "b": "Dirancang khusus untuk pengembangan aplikasi web",
+    "c": "Sangat kuat tetapi sulit digunakan karena lebih dekat ke bahasa assembly",
+    "d": "Tidak mendukung pemrograman berorientasi objek sama sekali",
+    "e": "Hanya bisa berjalan di sistem operasi Windows",
+    "jawaban": "c"
+  },
+  {
+    "id": 114,
+    "soal": "Dalam dekomposisi sistem, jika sebuah subsistem dianggap sebagai sistem tersendiri yang memiliki input, proses, dan output sendiri, maka subsistem tersebut disebut juga...",
+    "a": "Environment",
+    "b": "Interface",
+    "c": "Modul atau subsistem",
+    "d": "Boundary",
+    "e": "Storage",
+    "jawaban": "c"
+  },
+  {
+    "id": 115,
+    "soal": "Dalam pengujian sistem sebagai mekanisme kontrol, pengujian dilakukan menggunakan data tipikal, atipikal, data benar, dan data salah. Tujuan dari pengujian dengan data yang salah atau atipikal adalah...",
+    "a": "Memastikan sistem hanya menerima data yang sempurna",
+    "b": "Memverifikasi bahwa sistem dapat menangani kondisi pengecualian dan kesalahan dengan benar",
+    "c": "Mengukur kecepatan pemrosesan sistem dalam kondisi normal",
+    "d": "Memastikan antarmuka pengguna terlihat menarik",
+    "e": "Menguji kapasitas penyimpanan database",
+    "jawaban": "b"
+  },
+  {
+    "id": 116,
+    "soal": "Sebuah sistem informasi memiliki aturan validasi yang memeriksa apakah harga produk baru yang dimasukkan berada dalam rentang nilai yang wajar. Mekanisme kontrol ini termasuk kategori...",
+    "a": "Kontrol pada tahap implementasi",
+    "b": "Aturan dan perhitungan validasi pada tahap definisi dan konstruksi",
+    "c": "Audit sistem berkala",
+    "d": "Cadangan dan pemulihan data",
+    "e": "Kontrol keamanan akses pengguna",
+    "jawaban": "b"
+  },
+  {
+    "id": 117,
+    "soal": "Dalam konteks batas sistem (system boundary), faktor 'ruang lingkup yang dapat dikelola dalam periode waktu tertentu' menjadi pertimbangan penting karena...",
+    "a": "Semakin besar ruang lingkup sistem, semakin baik hasilnya",
+    "b": "Sistem yang kompleks membutuhkan waktu lama sehingga solusi yang direncanakan mungkin sudah tidak relevan saat selesai",
+    "c": "Batas waktu proyek tidak berpengaruh terhadap kualitas sistem",
+    "d": "Ruang lingkup selalu ditentukan oleh anggaran, bukan waktu",
+    "e": "Semakin kecil ruang lingkup, semakin banyak fitur yang bisa ditambahkan",
+    "jawaban": "b"
+  },
+  {
+    "id": 118,
+    "soal": "Web browser pertama yang diproduksi secara komersial pada era 1990-an adalah...",
+    "a": "Internet Explorer",
+    "b": "Firefox",
+    "c": "Netscape Navigator",
+    "d": "Google Chrome",
+    "e": "Safari",
+    "jawaban": "c"
+  },
+  {
+    "id": 119,
+    "soal": "Dalam bahasa pemrograman Java, program kecil yang disisipkan pada halaman HTML menggunakan tag <APPLET> disebut...",
+    "a": "Servlet",
+    "b": "JSP (Java Server Pages)",
+    "c": "Applet",
+    "d": "JavaBean",
+    "e": "JavaScript module",
+    "jawaban": "c"
+  },
+  {
+    "id": 120,
+    "soal": "Perangkat lunak server web yang paling populer dan bersifat open source, yang pada tahun 2010 digunakan oleh lebih dari 110 juta situs web, adalah...",
+    "a": "Microsoft IIS",
+    "b": "Apache",
+    "c": "Nginx",
+    "d": "Tomcat",
+    "e": "LiteSpeed",
+    "jawaban": "b"
+  },
+  {
+    "id": 121,
+    "soal": "Sebuah perusahaan multinasional ingin menghubungkan kantor-kantornya yang tersebar di berbagai negara agar bisa berbagi data secara real-time. Jenis jaringan yang paling tepat untuk kebutuhan ini adalah...",
+    "a": "Jaringan yang hanya mencakup area lokal dalam satu gedung dengan diameter maksimal 5 km",
+    "b": "Jaringan yang menghubungkan beberapa kantor dalam satu kota dengan jangkauan 10-50 km",
+    "c": "Jaringan dengan cakupan luas yang dapat menjangkau satu negara bahkan benua, menggunakan fiber optic atau satelit",
+    "d": "Jaringan backbone yang hanya menghubungkan antar-LAN dalam satu organisasi",
+    "e": "Jaringan virtual pribadi yang memanfaatkan internet publik dengan enkripsi data",
+    "jawaban": "c"
+  },
+  {
+    "id": 122,
+    "soal": "Seorang teknisi jaringan menjelaskan bahwa komunikasi antara dua perangkat hanya bisa berjalan satu arah saja, seperti siaran radio yang hanya bisa diterima, tidak bisa membalas. Jenis saluran transmisi yang dimaksud adalah...",
+    "a": "Saluran yang memungkinkan data bergerak dua arah secara bersamaan dengan kapasitas penuh",
+    "b": "Saluran yang memungkinkan data bergerak dua arah, tetapi tidak bisa dilakukan secara bersamaan",
+    "c": "Saluran yang hanya mengizinkan data bergerak dalam satu arah saja",
+    "d": "Saluran yang mengubah sinyal digital menjadi analog menggunakan modem",
+    "e": "Saluran yang digunakan khusus untuk transmisi data melalui satelit",
+    "jawaban": "c"
+  },
+  {
+    "id": 123,
+    "soal": "Walkie-talkie adalah contoh komunikasi di mana dua orang bisa saling bicara tetapi tidak bisa berbicara bersamaan — satu harus selesai dulu baru yang lain bisa merespons. Dalam istilah jaringan, ini disebut...",
+    "a": "Transmisi simplex, yaitu data hanya bisa bergerak satu arah tanpa bisa dibalas",
+    "b": "Transmisi full-duplex, yaitu kedua arah aktif secara bersamaan seperti telepon biasa",
+    "c": "Transmisi half-duplex, yaitu data bisa dua arah tetapi tidak secara bersamaan",
+    "d": "Transmisi broadband, yaitu beberapa sinyal dikirim bersamaan melalui satu kabel",
+    "e": "Transmisi baseband, yaitu hanya satu sinyal yang dikirim dalam satu waktu secara digital",
+    "jawaban": "c"
+  },
+  {
+    "id": 124,
+    "soal": "Dalam pemilihan media transmisi untuk jaringan berkecepatan sangat tinggi antar gedung yang berjauhan, media yang paling tepat adalah media yang mengirimkan data menggunakan pulsa cahaya melalui serat tipis dari kaca atau silika. Media ini adalah...",
+    "a": "Kabel UTP yang paling umum digunakan karena harganya murah dan mudah dipasang",
+    "b": "Kabel koaksial yang menggunakan kawat tembaga tebal di tengah dikelilingi bahan isolasi",
+    "c": "Transmisi nirkabel yang mengirimkan sinyal radio ke udara tanpa membutuhkan kabel fisik",
+    "d": "Kabel serat optik yang mentransmisikan data dengan pulsa cahaya melalui serat kaca tipis",
+    "e": "Satelit komunikasi yang merupakan bentuk khusus dari teknologi nirkabel jarak jauh",
+    "jawaban": "d"
+  },
+  {
+    "id": 125,
+    "soal": "Topologi jaringan ring memiliki keistimewaan dibandingkan topologi bus. Apa keunggulan utama ring dibanding bus ketika terjadi kegagalan pada salah satu titik?",
+    "a": "Ring lebih murah biayanya karena menggunakan kabel yang lebih pendek",
+    "b": "Pada ring, jika terjadi satu kegagalan, perangkat masih bisa berkomunikasi satu sama lain karena ada jalur alternatif dari arah lain",
+    "c": "Ring memiliki server terpusat di tengah yang bisa menangani kegagalan secara otomatis",
+    "d": "Ring memungkinkan penambahan perangkat baru tanpa harus memutus jaringan yang ada",
+    "e": "Ring tidak memerlukan switch atau hub sehingga lebih sederhana dari bus",
+    "jawaban": "b"
+  },
+  {
+    "id": 126,
+    "soal": "Sebuah perusahaan menggunakan topologi star untuk jaringannya. Suatu hari perangkat pusat (switch utama) mengalami kerusakan. Apa dampak yang paling mungkin terjadi?",
+    "a": "Hanya perangkat yang terhubung langsung ke perangkat yang rusak yang terdampak",
+    "b": "Tidak ada dampak karena perangkat lain bisa saling berkomunikasi langsung",
+    "c": "Seluruh jaringan lumpuh karena semua perangkat bergantung pada perangkat pusat",
+    "d": "Jaringan melambat tetapi masih bisa beroperasi dengan kapasitas yang berkurang",
+    "e": "Hanya server file yang terdampak, komputer klien masih bisa saling terhubung",
+    "jawaban": "c"
+  },
+  {
+    "id": 127,
+    "soal": "Dalam topologi mesh, kegagalan pada satu perangkat cenderung berdampak kecil pada keseluruhan jaringan. Mengapa hal ini bisa terjadi?",
+    "a": "Karena mesh menggunakan server terpusat yang sangat andal dan jarang rusak",
+    "b": "Karena setiap perangkat terhubung ke dua, tiga, atau lebih perangkat lain sehingga tersedia jalur alternatif ketika satu jalur gagal",
+    "c": "Karena mesh menggunakan kabel fiber optik yang sangat tahan terhadap gangguan",
+    "d": "Karena mesh dilengkapi sistem redundansi otomatis yang secara aktif memperbaiki kerusakan",
+    "e": "Karena mesh hanya digunakan untuk jaringan dengan perangkat yang sedikit sehingga mudah dikontrol",
+    "jawaban": "b"
+  },
+  {
+    "id": 128,
+    "soal": "Sebuah universitas besar ingin membangun jaringan yang menggabungkan topologi star untuk setiap gedung dan topologi ring untuk menghubungkan antar gedung. Pendekatan ini dikenal sebagai...",
+    "a": "Topologi bus yang diperluas untuk menjangkau area yang lebih luas",
+    "b": "Topologi mesh parsial yang menghubungkan semua perangkat satu per satu",
+    "c": "Topologi tree yang memiliki hierarki mainframe di puncak dan terminal di bawah",
+    "d": "Topologi hybrid yang menggabungkan dua atau lebih topologi untuk menghemat biaya dan meningkatkan fleksibilitas",
+    "e": "Topologi point-to-point yang menghubungkan dua node secara langsung",
+    "jawaban": "d"
+  },
+  {
+    "id": 129,
+    "soal": "Sebuah toko swalayan memiliki komputer kasir di lantai bawah dan komputer manajer di lantai atas, keduanya terhubung langsung tanpa perangkat perantara. Topologi paling sederhana yang menggambarkan hubungan ini adalah...",
+    "a": "Topologi star yang membutuhkan switch di tengah sebagai penghubung semua perangkat",
+    "b": "Topologi bus yang menggunakan satu kabel panjang yang dibagi semua perangkat",
+    "c": "Topologi point-to-point yang menghubungkan dua komputer secara langsung",
+    "d": "Topologi ring yang menghubungkan perangkat dalam lingkaran tertutup",
+    "e": "Topologi tree yang memiliki komputer utama di puncak hierarki",
+    "jawaban": "c"
+  },
+  {
+    "id": 130,
+    "soal": "Internet pada dasarnya adalah jaringan yang menggunakan protokol tertentu sebagai 'bahasa komunikasi' bersama. Protokol standar yang digunakan internet adalah...",
+    "a": "Protokol OSI yang dikembangkan ISO tahun 1984 dengan tujuh lapisan yang mendefinisikan cara komunikasi antarperangkat",
+    "b": "Protokol HTTP yang digunakan untuk transfer halaman web antara server dan browser",
+    "c": "Protokol TCP/IP yang merupakan transmission control protocol/internet protocol sebagai standar komunikasi internet",
+    "d": "Protokol FTP yang digunakan untuk transfer file dari satu komputer ke komputer lain",
+    "e": "Protokol SMTP yang digunakan untuk mengirim dan menerima email di seluruh dunia",
+    "jawaban": "c"
+  },
+  {
+    "id": 131,
+    "soal": "Perbedaan mendasar antara WAN dan LAN bukan hanya soal jarak. Manakah pernyataan yang PALING TEPAT membedakan keduanya?",
+    "a": "LAN lebih lambat dari WAN karena menggunakan kabel tembaga yang sudah tua",
+    "b": "WAN biasanya dimiliki oleh beberapa organisasi termasuk operator umum, sedangkan LAN sepenuhnya dimiliki satu organisasi dan beroperasi dalam area terbatas",
+    "c": "LAN menggunakan satelit, sedangkan WAN menggunakan kabel fiber optik bawah tanah",
+    "d": "WAN hanya bisa mentransmisikan data, sedangkan LAN bisa mentransmisikan suara dan video",
+    "e": "LAN membutuhkan operator telekomunikasi, sedangkan WAN dikelola mandiri oleh perusahaan",
+    "jawaban": "b"
+  },
+  {
+    "id": 132,
+    "soal": "Sebuah perusahaan menggunakan koneksi khusus ke internet yang menyediakan saluran komunikasi tersendiri, bukan berbagi dengan pengguna lain. Jenis layanan WAN yang paling sesuai adalah...",
+    "a": "DDD (Direct Distance Dialing) yang menggunakan jaringan telepon umum dengan kecepatan hingga 56 kbps",
+    "b": "Leased Lines (saluran sewa) yang menyewa jalur komunikasi khusus dari operator untuk kapasitas dan keandalan tinggi",
+    "c": "VPN yang memanfaatkan internet publik dengan enkripsi untuk keamanan data",
+    "d": "Packet-switched network yang membagi komunikasi menjadi paket-paket kecil",
+    "e": "ISDN yang menawarkan transmisi suara dan data secara simultan melalui jaringan telepon",
+    "jawaban": "b"
+  },
+  {
+    "id": 133,
+    "soal": "Seorang karyawan yang bekerja dari rumah menggunakan koneksi terenkripsi untuk mengakses server kantor seolah-olah berada di jaringan internal perusahaan. Teknologi yang digunakan adalah...",
+    "a": "Intranet yang memungkinkan akses ke jaringan internal menggunakan protokol TCP/IP dari dalam organisasi",
+    "b": "Leased Line yang menyewa jalur komunikasi khusus dengan kapasitas tinggi",
+    "c": "VPN (Virtual Private Network) yang membuat koneksi privat melalui internet publik dengan enkripsi",
+    "d": "MAN yang menghubungkan beberapa kantor dalam satu kota dengan jangkauan 10-50 km",
+    "e": "ISDN yang menawarkan kemampuan transmisi suara dan data secara bersamaan",
+    "jawaban": "c"
+  },
+  {
+    "id": 134,
+    "soal": "Sebuah organisasi membangun jaringan internal yang menggunakan protokol TCP/IP, memiliki browser web dan server web, tetapi sama sekali tidak bisa diakses dari luar organisasi. Jaringan ini disebut...",
+    "a": "Extranet yang memungkinkan mitra bisnis tertentu mengakses sebagian jaringan internal",
+    "b": "VPN yang menggunakan internet publik dengan lapisan enkripsi untuk keamanan",
+    "c": "Intranet yang beroperasi di dalam organisasi menggunakan protokol TCP/IP namun tidak dapat diakses dari luar",
+    "d": "WAN yang menghubungkan beberapa lokasi perusahaan yang berjauhan",
+    "e": "MAN yang menghubungkan beberapa gedung dalam satu kawasan kota",
+    "jawaban": "c"
+  },
+  {
+    "id": 135,
+    "soal": "Dalam OSI Model, ada tujuh lapisan yang masing-masing memiliki tanggung jawab berbeda. Lapisan yang bertanggung jawab untuk memastikan transfer data bebas dari kesalahan dari satu node ke node lain menggunakan alamat MAC adalah...",
+    "a": "Physical layer yang mentransmisikan bit mentah (0 dan 1) melalui media fisik tanpa pengecekan kesalahan",
+    "b": "Network layer yang menangani perutean paket dari satu jaringan ke jaringan lain menggunakan alamat IP",
+    "c": "Data-link layer yang memastikan transfer bebas kesalahan antar node menggunakan alamat MAC",
+    "d": "Transport layer yang menyediakan layanan end-to-end dan pengendalian aliran data",
+    "e": "Session layer yang bertanggung jawab untuk pembentukan dan pemeliharaan koneksi sesi",
+    "jawaban": "c"
+  },
+  {
+    "id": 136,
+    "soal": "Sebuah paket data sedang dalam perjalanan dari komputer A ke komputer B yang berada di jaringan yang berbeda. Lapisan OSI yang bertugas memilih jalur terpendek dan menempatkan alamat IP pengirim serta penerima di header adalah...",
+    "a": "Data-link layer yang menggunakan alamat MAC untuk pengiriman antar node dalam satu jaringan",
+    "b": "Transport layer yang bertanggung jawab pengiriman end-to-end dan memecah data menjadi segmen",
+    "c": "Physical layer yang mengubah data menjadi sinyal listrik untuk dikirimkan melalui kabel",
+    "d": "Network layer yang menangani perutean paket dan penentuan jalur terpendek menggunakan alamat IP",
+    "e": "Session layer yang membangun dan memelihara koneksi antar aplikasi yang berkomunikasi",
+    "jawaban": "d"
+  },
+  {
+    "id": 137,
+    "soal": "Ketika Anda mengakses website melalui browser, ada lapisan OSI yang berperan sebagai 'jendela' bagi aplikasi untuk mengakses jaringan dan menampilkan informasi kepada pengguna. Lapisan ini adalah...",
+    "a": "Presentation layer yang bertugas menerjemahkan format data dan melakukan enkripsi/dekripsi",
+    "b": "Session layer yang bertanggung jawab membangun, mengelola, dan mengakhiri sesi komunikasi",
+    "c": "Transport layer yang memecah data menjadi segmen dan memastikan pengiriman yang andal",
+    "d": "Application layer yang merupakan lapisan paling atas dan langsung berinteraksi dengan aplikasi pengguna",
+    "e": "Network layer yang menentukan rute terbaik untuk mengirimkan paket data ke tujuan",
+    "jawaban": "d"
+  },
+  {
+    "id": 138,
+    "soal": "Perbedaan paling fundamental antara OSI Model dan TCP/IP Model adalah...",
+    "a": "OSI menggunakan empat lapisan sedangkan TCP/IP menggunakan tujuh lapisan yang lebih detail",
+    "b": "TCP/IP hanya bisa digunakan di jaringan internet, sedangkan OSI bisa digunakan di semua jenis jaringan",
+    "c": "OSI adalah model konseptual/referensi dengan tujuh lapisan yang lebih teoritis, sedangkan TCP/IP adalah model empat lapisan yang lebih praktis dan banyak diimplementasikan di internet",
+    "d": "OSI dikembangkan oleh Amerika Serikat, sedangkan TCP/IP dikembangkan oleh organisasi internasional ISO",
+    "e": "TCP/IP tidak mendukung komunikasi nirkabel, sedangkan OSI dirancang untuk semua jenis media transmisi",
+    "jawaban": "c"
+  },
+  {
+    "id": 139,
+    "soal": "Dalam TCP/IP Model, lapisan application layer mencakup beberapa protokol. Manakah pernyataan yang BENAR tentang lapisan ini?",
+    "a": "Lapisan ini hanya menangani transmisi bit melalui media fisik dan tidak berhubungan dengan aplikasi",
+    "b": "Lapisan ini adalah lapisan paling bawah yang menangani pengalamatan perangkat keras",
+    "c": "Lapisan ini adalah lapisan paling atas yang bertanggung jawab untuk komunikasi node-to-node dan mengontrol antarmuka pengguna, dengan protokol seperti HTTP, FTP, SMTP, dan DNS",
+    "d": "Lapisan ini menangani kontrol aliran dan multiplexing antar host di seluruh jaringan",
+    "e": "Lapisan ini bertugas menghubungkan jaringan-jaringan independen dan menangani pengalamatan IP",
+    "jawaban": "c"
+  },
+  {
+    "id": 140,
+    "soal": "Subnet mask dalam jaringan TCP/IP berfungsi untuk...",
+    "a": "Mengenkripsi data yang dikirimkan agar tidak bisa dibaca oleh pihak yang tidak berwenang",
+    "b": "Memberitahu perangkat bagian mana dari alamat IP yang merepresentasikan jaringan dan bagian mana yang merepresentasikan host",
+    "c": "Menentukan kecepatan maksimum transmisi data pada jaringan lokal",
+    "d": "Memilih jalur terpendek untuk mengirimkan paket data ke tujuan",
+    "e": "Menerjemahkan nama domain seperti google.com menjadi alamat IP numerik",
+    "jawaban": "b"
+  },
+  {
+    "id": 141,
+    "soal": "Sebuah jaringan packet-switching bekerja dengan cara membagi komunikasi menjadi beberapa paket kecil. Apa keunggulan utama teknik packet-switching dibanding pengiriman data dalam satu blok besar?",
+    "a": "Packet-switching membutuhkan bandwidth yang lebih besar karena setiap paket memerlukan header tersendiri",
+    "b": "Packet-switching memungkinkan efisiensi jaringan karena banyak komunikasi dari berbagai pengguna dapat berbagi jalur yang sama secara bergantian",
+    "c": "Packet-switching hanya bisa digunakan pada jaringan fiber optik berkecepatan tinggi",
+    "d": "Packet-switching tidak memerlukan protokol khusus karena paket langsung dikirim tanpa proses routing",
+    "e": "Packet-switching hanya cocok untuk transmisi suara, tidak efisien untuk data teks",
+    "jawaban": "b"
+  },
+  {
+    "id": 142,
+    "soal": "NAT (Network Address Translation) digunakan dalam jaringan TCP/IP. Manakah deskripsi yang paling tepat tentang fungsi NAT?",
+    "a": "Metode untuk mengenkripsi seluruh paket data sebelum dikirimkan melalui jaringan publik",
+    "b": "Teknik untuk meningkatkan kecepatan transmisi dengan memampatkan data sebelum dikirim",
+    "c": "Metode virtualisasi alamat IP yang membantu meningkatkan keamanan dan mengurangi jumlah alamat IP yang dibutuhkan organisasi",
+    "d": "Protokol untuk menerjemahkan nama domain menjadi alamat IP yang bisa diproses mesin",
+    "e": "Mekanisme yang memilih jalur terpendek untuk pengiriman paket data di jaringan yang kompleks",
+    "jawaban": "c"
+  },
+  {
+    "id": 143,
+    "soal": "Dalam konteks kebutuhan jaringan bagi organisasi, 'pemrosesan data terdistribusi' berbeda dari sistem terpusat karena...",
+    "a": "Pemrosesan data terdistribusi hanya bisa dilakukan menggunakan jaringan nirkabel tanpa kabel",
+    "b": "Daya pemrosesan didistribusikan ke beberapa komputer di beberapa lokasi yang terhubung melalui telekomunikasi, bukan diproses di satu tempat saja",
+    "c": "Pemrosesan terdistribusi berarti semua data disimpan di cloud tanpa server lokal",
+    "d": "Pemrosesan terdistribusi tidak memerlukan jaringan karena setiap komputer bekerja secara independen",
+    "e": "Daya pemrosesan dipusatkan di satu mainframe yang sangat kuat untuk efisiensi maksimal",
+    "jawaban": "b"
+  },
+  {
+    "id": 144,
+    "soal": "Sebuah warung internet (warnet) memiliki 20 komputer yang saling terhubung dalam satu area dan semua terhubung ke internet melalui satu router. Jenis jaringan yang paling sesuai menggambarkan setup ini adalah...",
+    "a": "WAN karena terhubung ke internet yang merupakan jaringan global",
+    "b": "MAN karena melayani banyak pengguna dari berbagai lokasi dalam kota",
+    "c": "LAN karena menghubungkan perangkat dalam area lokal terbatas yang dimiliki satu entitas",
+    "d": "VPN karena semua koneksi dienkripsi untuk menjaga privasi pengguna",
+    "e": "Backbone network karena menghubungkan banyak jaringan dalam satu lokasi",
+    "jawaban": "c"
+  },
+  {
+    "id": 145,
+    "soal": "MAN (Metropolitan Area Network) paling tepat digunakan untuk skenario berikut...",
+    "a": "Menghubungkan semua komputer dalam satu ruangan kantor yang sama lantai",
+    "b": "Menghubungkan beberapa kantor cabang bank yang tersebar di berbagai kota besar seluruh Indonesia",
+    "c": "Menghubungkan beberapa gedung kampus atau kantor pemerintah yang masih berada dalam satu kota yang sama",
+    "d": "Menghubungkan pengguna di rumah ke server penyedia layanan internet",
+    "e": "Menghubungkan perangkat IoT seperti sensor dan kamera CCTV dalam satu kompleks pabrik",
+    "jawaban": "c"
+  },
+  {
+    "id": 146,
+    "soal": "Fungsi 'routing' dalam jaringan telekomunikasi adalah...",
+    "a": "Mengubah sinyal digital menjadi analog agar bisa dikirimkan melalui jaringan telepon konvensional",
+    "b": "Memastikan data yang diterima bebas dari kesalahan dan sudah dalam format standar yang benar",
+    "c": "Melacak status setiap elemen jaringan untuk memastikan komunikasi siap dikirim",
+    "d": "Memilih jalur yang paling efisien untuk mengirimkan data ketika tersedia beberapa jalur alternatif",
+    "e": "Menangani interaksi antara pengguna akhir dengan jaringan melalui antarmuka yang mudah dipahami",
+    "jawaban": "d"
+  },
+  {
+    "id": 147,
+    "soal": "Mengapa koneksi dial-up modem yang pernah populer di era 1990-an kini tidak lagi relevan untuk penggunaan internet modern?",
+    "a": "Karena dial-up tidak bisa terhubung ke internet, hanya ke jaringan telepon lokal saja",
+    "b": "Karena kecepatan maksimum dial-up hanya 56 kbps, jauh terlambat dibanding koneksi broadband modern seperti DSL, kabel, atau fiber optik yang jauh lebih cepat",
+    "c": "Karena dial-up hanya bisa digunakan di lingkungan kantor, tidak bisa di rumah",
+    "d": "Karena dial-up menggunakan protokol yang tidak kompatibel dengan website modern",
+    "e": "Karena infrastruktur telepon analog sudah sepenuhnya digantikan oleh jaringan 5G",
+    "jawaban": "b"
+  },
+  {
+    "id": 148,
+    "soal": "Dalam konteks sumber daya data organisasi, pernyataan yang paling tepat menggambarkan pentingnya data sebagai aset adalah...",
+    "a": "Data hanya bernilai ketika sudah diproses menjadi laporan keuangan oleh departemen akuntansi",
+    "b": "Data hanya penting bagi perusahaan teknologi, bukan bagi perusahaan manufaktur atau jasa konvensional",
+    "c": "Data merupakan sumber daya utama yang harus dikelola dan dikembangkan seperti aset lainnya karena organisasi unggul apabila mampu mengelola dan memahami data untuk keputusan bisnis",
+    "d": "Data hanya perlu dikelola oleh departemen IT, manajer bisnis tidak perlu terlibat dalam pengelolaannya",
+    "e": "Data hanya bernilai selama masih baru dan relevan, data lama tidak perlu dikelola atau disimpan",
+    "jawaban": "c"
+  },
+  {
+    "id": 149,
+    "soal": "Sebuah perusahaan memiliki data pelanggan yang sama tersimpan di tiga sistem berbeda (CRM, billing, dan logistik) dengan format yang berbeda-beda. Masalah ini berkaitan dengan kegagalan dalam...",
+    "a": "Proses backup dan recovery yang tidak dilakukan secara berkala pada ketiga sistem tersebut",
+    "b": "Standardisasi data, khususnya pada aspek penamaan, definisi, dan format yang konsisten di seluruh sistem",
+    "c": "Pemilihan topologi jaringan yang tepat untuk menghubungkan ketiga sistem tersebut",
+    "d": "Implementasi protokol keamanan yang seharusnya mencegah duplikasi data antar sistem",
+    "e": "Kurangnya perangkat keras server yang cukup untuk menampung semua data di satu tempat",
+    "jawaban": "b"
+  },
+  {
+    "id": 150,
+    "soal": "Dalam model data, 'entitas data' adalah konsep penting. Manakah yang paling tepat menggambarkan apa itu entitas data dalam konteks sistem informasi bisnis?",
+    "a": "Program komputer yang mengolah data menjadi informasi siap pakai untuk pengambilan keputusan",
+    "b": "Laporan keuangan yang dihasilkan oleh sistem informasi akuntansi secara periodik",
+    "c": "Objek atau konsep bisnis seperti pelanggan, pesanan, produk, vendor, atau karyawan yang datanya perlu disimpan dan dikelola",
+    "d": "Aturan bisnis yang menentukan bagaimana data boleh diakses dan digunakan oleh karyawan",
+    "e": "Infrastruktur jaringan yang menghubungkan berbagai database di seluruh organisasi",
+    "jawaban": "c"
+  },
+  {
+    "id": 151,
+    "soal": "Pendekatan 'top-down' dalam pemodelan data disebut sebagai pemodelan perusahaan. Karakteristik utama pendekatan ini adalah...",
+    "a": "Mulai dari kebutuhan pengguna di level bawah kemudian digabungkan ke level yang lebih tinggi secara bertahap",
+    "b": "Memulai dari fungsi utama organisasi kemudian memecahnya menjadi proses, lalu aktivitas secara hierarkis ke bawah",
+    "c": "Membangun model berdasarkan data yang sudah ada di database yang sudah berjalan",
+    "d": "Mengintegrasikan berbagai pandangan pengguna dari berbagai departemen secara paralel",
+    "e": "Meniru model data dari perusahaan kompetitor yang sudah terbukti berhasil di industri yang sama",
+    "jawaban": "b"
+  },
+  {
+    "id": 152,
+    "soal": "Sebuah manajer pemasaran ingin mendapatkan laporan tren penjualan 5 tahun terakhir yang sudah diringkas dan divisualisasikan dalam bentuk grafik. Jenis aplikasi pengelolaan data yang paling sesuai untuk memenuhi kebutuhan ini adalah...",
+    "a": "Aplikasi pengambilan data (data capture) yang bertugas mengumpulkan dan mengisi database",
+    "b": "Aplikasi transfer data yang memindahkan data dari satu database ke database lain",
+    "c": "Aplikasi analisis dan penyajian data yang meringkas, membandingkan, dan memvisualisasikan data untuk pengambilan keputusan",
+    "d": "Aplikasi DBMS yang berfungsi membuat, mengelola, dan melindungi struktur database",
+    "e": "Aplikasi ETL yang mengekstrak, mentransformasi, dan memuat data ke dalam data warehouse",
+    "jawaban": "c"
+  },
+  {
+    "id": 153,
+    "soal": "Dalam standardisasi data, 'Integrity Rules' (aturan integritas) berfungsi untuk...",
+    "a": "Menentukan siapa saja yang memiliki hak untuk mengakses dan memodifikasi data tertentu",
+    "b": "Memberikan nama unik dan bermakna untuk setiap jenis data yang disimpan dalam database",
+    "c": "Mendefinisikan rentang atau kumpulan nilai yang diizinkan untuk setiap elemen data agar data tetap valid",
+    "d": "Memberikan deskripsi yang jelas dan tidak ambigu tentang makna setiap entitas dan elemen data",
+    "e": "Menentukan nilai unik yang membedakan satu kejadian entitas dari kejadian lainnya",
+    "jawaban": "c"
+  },
+  {
+    "id": 154,
+    "soal": "Sebuah perusahaan memiliki nomor karyawan yang unik untuk setiap orang. Dalam standardisasi data, nomor karyawan ini termasuk elemen...",
+    "a": "Aturan integritas yang menentukan rentang nilai yang valid untuk elemen data karyawan",
+    "b": "Definisi data yang memberikan deskripsi lengkap tentang karakteristik setiap karyawan",
+    "c": "Pengidentifikasi (identifier) yang secara unik membedakan satu entitas dari entitas lainnya",
+    "d": "Hak penggunaan yang menentukan siapa yang boleh mengakses data karyawan",
+    "e": "Penamaan data yang memberikan label bermakna untuk jenis data karyawan",
+    "jawaban": "c"
+  },
+  {
+    "id": 155,
+    "soal": "Dalam proses manajemen data, langkah 'menentukan retensi dan membuang data' menjadi penting karena...",
+    "a": "Data lama selalu tidak akurat sehingga harus selalu dihapus untuk menjaga kualitas database",
+    "b": "Menyimpan data terlalu lama tidak hanya mahal dari sisi storage, tetapi penggunaan data yang kedaluwarsa juga dapat membiaskan analisis dan prakiraan bisnis",
+    "c": "Regulasi pemerintah mewajibkan semua perusahaan untuk menghapus data pelanggan setiap tiga tahun",
+    "d": "Data lama tidak bisa dibaca oleh sistem baru karena perbedaan format dan teknologi",
+    "e": "Menyimpan terlalu banyak data akan memperlambat koneksi internet perusahaan secara signifikan",
+    "jawaban": "b"
+  },
+  {
+    "id": 156,
+    "soal": "Data yang hanya relevan untuk satu pengguna atau kelompok kecil, tidak memerlukan kontrol ekstensif, dan mungkin memiliki masa pakai terbatas disebut...",
+    "a": "Core data yang memerlukan definisi luas di seluruh organisasi karena digunakan bersama di semua departemen",
+    "b": "Shared data yang dipertukarkan antar kelompok pengguna berbeda dan memerlukan kesepakatan format",
+    "c": "Physical data yang tersimpan di database dan sistem file dengan isu kinerja dan keamanan",
+    "d": "Local data yang relevansinya terbatas pada satu pengguna atau kelompok kecil organisasi",
+    "e": "Semantic data yang berisi metadata yang menjelaskan karakteristik data organisasi",
+    "jawaban": "d"
+  },
+  {
+    "id": 157,
+    "soal": "Metadata yang menjelaskan karakteristik bisnis dan teknis dari sumber daya data disebut dalam tipe data sebagai...",
+    "a": "Core data karena merupakan data terpenting yang digunakan bersama di seluruh organisasi",
+    "b": "Physical data karena disimpan dalam database dan berkaitan dengan performa sistem",
+    "c": "Logical data karena merepresentasikan pemahaman pengguna tentang data yang dibutuhkan",
+    "d": "Local data karena hanya diperlukan oleh administrator database saja",
+    "e": "Semantic data yang berisi metadata yang menjelaskan data organisasi dengan fokus pada kejelasan dan konsistensi",
+    "jawaban": "e"
+  },
+  {
+    "id": 158,
+    "soal": "DBMS (Database Management System) memberikan keunggulan signifikan dibandingkan pengelolaan file biasa dalam sistem operasi. Keunggulan utama yang membuat DBMS lebih unggul adalah...",
+    "a": "DBMS hanya bisa digunakan oleh programmer berpengalaman sehingga lebih aman dari akses yang tidak sah",
+    "b": "DBMS memungkinkan pemrogram memilih data berdasarkan konten atau isi record, bukan berdasarkan lokasi fisiknya, sehingga pemrograman lebih mudah dan tidak rawan kesalahan",
+    "c": "DBMS selalu lebih cepat dari sistem file biasa dalam semua operasi pembacaan dan penulisan data",
+    "d": "DBMS otomatis membuat backup data setiap hari sehingga tidak ada risiko kehilangan data",
+    "e": "DBMS tidak membutuhkan perencanaan struktur data terlebih dahulu karena bisa menyesuaikan otomatis",
+    "jawaban": "b"
+  },
+  {
+    "id": 159,
+    "soal": "Arsitektur database relasional berbeda dari arsitektur hierarki. Karakteristik yang paling membedakan arsitektur relasional adalah...",
+    "a": "Data disusun dari atas ke bawah dalam struktur pohon yang kaku dan tidak fleksibel",
+    "b": "Data tersimpan dalam grafik, video, suara, dan metode yang dikemas dalam kelas berorientasi objek",
+    "c": "Data berupa tabel-tabel sederhana yang saling terkait, memungkinkan fleksibilitas kueri dan hubungan antar data",
+    "d": "Data disusun serupa sistem transportasi kota dengan banyak jalur yang menghubungkan setiap simpul",
+    "e": "Data berupa objek yang menggabungkan atribut dan metode dalam satu unit, cocok untuk data multimedia",
+    "jawaban": "c"
+  },
+  {
+    "id": 160,
+    "soal": "Sebuah platform e-commerce besar seperti Tokopedia menyimpan miliaran data transaksi, ulasan, dan perilaku pengguna yang tidak terstruktur dari berbagai sumber. Platform penyimpanan data yang paling sesuai untuk kebutuhan ini adalah...",
+    "a": "Data warehouse yang terdiri atas model data terstruktur dengan kumpulan data yang kecil dan terbatas",
+    "b": "Data lake yang dapat menyimpan data tidak terstruktur dari berbagai sumber hingga skala petabyte atau exabyte",
+    "c": "DBMS relasional biasa yang menyimpan semua data dalam tabel-tabel yang saling terhubung",
+    "d": "Spreadsheet terkomputerisasi yang memudahkan analisis data oleh tim bisnis tanpa keahlian teknis khusus",
+    "e": "Sistem file biasa di server lokal yang murah dan mudah dikelola tanpa memerlukan keahlian khusus",
+    "jawaban": "b"
+  },
+  {
+    "id": 161,
+    "soal": "Proses ETL dalam konteks data warehouse adalah proses yang melibatkan tiga tahap berurutan. Urutan yang benar adalah...",
+    "a": "Evaluate (evaluasi), Transfer (transfer), Load (muat) — data dievaluasi kualitasnya, dipindahkan, lalu dimuat",
+    "b": "Extract (ekstrak), Transform (transformasi), Load (muat) — data diambil dari sumber, diolah/diubah formatnya, lalu dimuat ke data warehouse",
+    "c": "Encode (enkode), Test (uji), Launch (luncurkan) — data dikodekan, diuji akurasinya, lalu diluncurkan ke pengguna",
+    "d": "Export (ekspor), Translate (terjemahkan), Link (hubungkan) — data diekspor, diterjemahkan formatnya, lalu dihubungkan ke sistem lain",
+    "e": "Examine (periksa), Tune (setel), Log (catat) — data diperiksa, disetel performanya, lalu dicatat dalam log sistem",
+    "jawaban": "b"
+  },
+  {
+    "id": 162,
+    "soal": "Microservices sebagai pendekatan pengembangan aplikasi modern berbeda dari aplikasi monolitik tradisional karena...",
+    "a": "Microservices berarti satu aplikasi besar yang mencakup semua fungsi dalam satu paket yang tidak bisa dipisah",
+    "b": "Microservices memecah aplikasi menjadi komponen-komponen kecil yang masing-masing punya fungsi mandiri dan bisa berkomunikasi lewat API",
+    "c": "Microservices hanya bisa berjalan di lingkungan cloud dan tidak bisa dijalankan di server lokal",
+    "d": "Microservices adalah teknik kompresi data agar ukuran aplikasi lebih kecil dan lebih cepat diunduh",
+    "e": "Microservices adalah pendekatan yang hanya cocok untuk aplikasi keamanan siber dan enkripsi data",
+    "jawaban": "b"
+  },
+  {
+    "id": 163,
+    "soal": "API (Application Programming Interface) dalam konteks teknologi informasi berfungsi sebagai...",
+    "a": "Antarmuka visual yang memudahkan pengguna awam mengoperasikan aplikasi tanpa perlu keahlian teknis",
+    "b": "Protokol keamanan yang mengenkripsi komunikasi antara aplikasi dan database",
+    "c": "Interface yang menghubungkan satu aplikasi dengan aplikasi lainnya, baik pada platform yang sama maupun berbeda",
+    "d": "Sistem manajemen database yang menyimpan dan mengelola data terstruktur secara efisien",
+    "e": "Framework pemrograman untuk membangun antarmuka pengguna grafis yang responsif",
+    "jawaban": "c"
+  },
+  {
+    "id": 164,
+    "soal": "Perbedaan utama antara data warehouse dan data lake dalam hal struktur data adalah...",
+    "a": "Data warehouse bisa menyimpan data hingga exabyte, sedangkan data lake hanya bisa menyimpan terabyte",
+    "b": "Data warehouse menggunakan model data terstruktur dengan kumpulan data terbatas, sedangkan data lake menyimpan data tidak terstruktur dari berbagai sumber dalam skala masif",
+    "c": "Data lake hanya untuk data real-time, sedangkan data warehouse hanya untuk data historis",
+    "d": "Data warehouse gratis dan open-source, sedangkan data lake selalu berbayar dan proprietary",
+    "e": "Data lake hanya cocok untuk perusahaan besar, sedangkan data warehouse cocok untuk semua ukuran perusahaan",
+    "jawaban": "b"
+  },
+  {
+    "id": 165,
+    "soal": "Dalam manajemen data, langkah 'mengorganisir dan membuat data bisa diakses' sangat krusial. Salah satu metode paling populer untuk tujuan ini dalam konteks pengambilan keputusan dan business intelligence adalah...",
+    "a": "Menyimpan semua data dalam format spreadsheet yang bisa diakses langsung oleh semua karyawan",
+    "b": "Menggunakan sistem email internal untuk mendistribusikan laporan data kepada manajer yang membutuhkan",
+    "c": "Membangun data warehouse yang dirancang agar data dapat diambil dan dilaporkan secara efisien untuk pengambilan keputusan",
+    "d": "Membuat salinan database di setiap departemen agar masing-masing bisa mengelola datanya sendiri",
+    "e": "Mengarsipkan semua data ke media penyimpanan eksternal yang hanya bisa diakses oleh tim IT",
+    "jawaban": "c"
+  },
+  {
+    "id": 166,
+    "soal": "Sebuah perusahaan perbankan menyimpan data transaksi nasabah dan setiap teller diperbolehkan melihat saldo nasabah tetapi tidak boleh mengubahnya tanpa otorisasi. Ini merupakan contoh penerapan standardisasi data pada aspek...",
+    "a": "Pengidentifikasi data yang memberikan nomor unik kepada setiap transaksi perbankan",
+    "b": "Definisi data yang menjelaskan dengan jelas apa yang dimaksud dengan 'saldo rekening'",
+    "c": "Aturan integritas yang memastikan nilai saldo berada dalam rentang yang valid",
+    "d": "Hak penggunaan (usage rights) yang menentukan siapa boleh melakukan apa terhadap jenis data tertentu",
+    "e": "Penamaan data yang memberikan label unik untuk setiap jenis data keuangan",
+    "jawaban": "d"
+  },
+  {
+    "id": 167,
+    "soal": "Dalam topologi jaringan tree, struktur yang terbentuk mirip dengan hierarki organisasi perusahaan. Karakteristik yang paling membedakan topologi tree dari topologi star adalah...",
+    "a": "Topologi tree menggunakan kabel fiber optik, sedangkan topologi star menggunakan kabel UTP biasa",
+    "b": "Topologi tree memiliki hierarki bertingkat di mana komputer utama terhubung ke pengontrol yang kemudian terhubung ke perangkat lebih kecil lainnya",
+    "c": "Topologi tree tidak memerlukan perangkat pusat, sedangkan star membutuhkan switch di tengah",
+    "d": "Topologi tree hanya bisa menghubungkan maksimal 10 perangkat, sedangkan star bisa ratusan",
+    "e": "Topologi tree menggunakan transmisi wireless, sedangkan star menggunakan kabel fisik",
+    "jawaban": "b"
+  },
+  {
+    "id": 168,
+    "soal": "Sebuah organisasi global seperti Google menggunakan ribuan server yang saling terhubung dengan banyak jalur redundan agar tidak ada satu titik kegagalan yang bisa melumpuhkan seluruh sistem. Topologi yang paling mendekati arsitektur jaringan ini adalah...",
+    "a": "Topologi star karena efisien dan mudah dikelola dengan satu titik pusat yang sangat andal",
+    "b": "Topologi bus karena sederhana dan murah untuk diimplementasikan dalam skala global",
+    "c": "Topologi ring karena memiliki jalur melingkar yang memungkinkan komunikasi alternatif",
+    "d": "Topologi mesh karena setiap node terhubung ke banyak node lain sehingga tersedia banyak jalur alternatif jika satu jalur gagal",
+    "e": "Topologi tree karena hierarkinya memudahkan manajemen dan pemantauan jaringan secara terpusat",
+    "jawaban": "d"
+  },
+  {
+    "id": 169,
+    "soal": "Dalam proses manajemen data, 'kualitas pengendalian dan integritas data' dianalogikan seperti audit keuangan. Apa yang menjadi risiko utama jika kualitas data tidak terjaga dengan baik?",
+    "a": "Sistem database akan crash dan semua data hilang secara permanen",
+    "b": "Koneksi jaringan perusahaan akan melambat karena data yang kotor membebani bandwidth",
+    "c": "Kualitas data yang buruk dapat menyebabkan hubungan pelanggan yang salah urus dan hilangnya penjualan, terutama saat data diintegrasikan dengan sistem CRM",
+    "d": "Departemen IT akan kekurangan kapasitas storage sehingga tidak bisa menambah data baru",
+    "e": "Perangkat lunak DBMS tidak bisa berjalan dengan baik jika ada data yang tidak valid",
+    "jawaban": "c"
+  },
+  {
+    "id": 170,
+    "soal": "Sebuah perusahaan retail memiliki definisi 'pelanggan' yang berbeda-beda di setiap departemen — departemen pemasaran menyebut semua orang yang pernah mengunjungi website sebagai pelanggan, sementara departemen penjualan hanya menganggap orang yang sudah pernah membeli sebagai pelanggan. Masalah ini merupakan kegagalan pada standar data...",
+    "a": "Pengidentifikasi, karena tidak ada nomor unik yang membedakan setiap pelanggan",
+    "b": "Aturan integritas, karena nilai data pelanggan tidak berada dalam rentang yang valid",
+    "c": "Hak penggunaan, karena departemen yang tidak berwenang mengakses data pelanggan",
+    "d": "Definisi data, karena tidak ada deskripsi yang jelas dan tidak ambigu tentang apa yang dimaksud dengan 'pelanggan'",
+    "e": "Penamaan data, karena kedua departemen menggunakan nama yang berbeda untuk data yang sama",
+    "jawaban": "d"
+  },
+  {
+    "id": 171,
+    "soal": "Dalam manajemen data, langkah 'memperoleh dan menjaga data' mencakup pemberitahuan otomatis kepada pengguna tentang kondisi luar biasa. Manakah contoh kondisi luar biasa yang perlu dinotifikasikan secara otomatis kepada manajer?",
+    "a": "Sistem berhasil memproses 1000 transaksi normal dalam satu jam",
+    "b": "Pengguna baru berhasil mendaftar ke sistem dan membuat akun pertamanya",
+    "c": "Inventaris produk tertentu telah habis stok atau harga saham turun di bawah level kritis",
+    "d": "Laporan bulanan berhasil dibuat dan tersimpan di folder yang ditentukan",
+    "e": "Backup database harian berhasil diselesaikan tanpa error",
+    "jawaban": "c"
+  },
+  {
+    "id": 172,
+    "soal": "Jaringan backbone dalam konteks infrastruktur telekomunikasi berfungsi sebagai...",
+    "a": "Jaringan utama yang langsung terhubung ke setiap perangkat pengguna akhir di seluruh perusahaan",
+    "b": "Jaringan antara atau jarak menengah yang menghubungkan LAN dalam satu organisasi dengan organisasi lain, WAN, atau internet",
+    "c": "Jaringan cadangan yang aktif ketika jaringan utama mengalami kegagalan",
+    "d": "Jaringan khusus yang digunakan hanya untuk transmisi data suara dan video konferensi",
+    "e": "Jaringan lokal berkecepatan tinggi yang menghubungkan server-server dalam satu data center",
+    "jawaban": "b"
+  },
+  {
+    "id": 173,
+    "soal": "Pada model OSI, presentation layer disebut juga 'translation layer'. Fungsi spesifik lapisan ini yang paling tepat adalah...",
+    "a": "Menentukan rute terbaik untuk mengirimkan paket data ke alamat tujuan yang berbeda jaringan",
+    "b": "Membangun dan mengakhiri sesi komunikasi antara dua aplikasi yang berinteraksi",
+    "c": "Mengekstrak data dari application layer dan memanipulasinya sesuai format yang diperlukan untuk transmisi jaringan, termasuk enkripsi dan kompresi",
+    "d": "Memastikan pengiriman data yang andal dari ujung ke ujung dengan kontrol aliran dan deteksi kesalahan",
+    "e": "Mentransmisikan bit-bit mentah melalui media fisik seperti kabel atau sinyal radio",
+    "jawaban": "c"
+  },
+  {
+    "id": 174,
+    "soal": "Session layer pada OSI Model bertanggung jawab untuk beberapa hal penting. Manakah yang BUKAN tanggung jawab session layer?",
+    "a": "Pembentukan koneksi antara dua aplikasi yang akan berkomunikasi",
+    "b": "Pemeliharaan sesi komunikasi agar tetap aktif selama diperlukan",
+    "c": "Autentifikasi untuk memastikan identitas pihak yang berkomunikasi",
+    "d": "Memilih jalur terpendek untuk mengirimkan paket data ke tujuan yang berbeda jaringan",
+    "e": "Memastikan keamanan komunikasi dalam sesi yang sedang berlangsung",
+    "jawaban": "d"
+  },
+  {
+    "id": 175,
+    "soal": "Bandwidth dalam konteks jaringan telekomunikasi paling tepat didefinisikan sebagai...",
+    "a": "Jarak maksimum yang bisa dijangkau oleh sinyal jaringan tanpa menggunakan repeater",
+    "b": "Jumlah perangkat maksimum yang bisa terhubung ke jaringan secara bersamaan",
+    "c": "Kapasitas sirkuit transmisi yang menentukan seberapa banyak data bisa dikirimkan dalam satu satuan waktu",
+    "d": "Kecepatan prosesor server yang menentukan seberapa cepat data bisa diproses",
+    "e": "Ukuran maksimum satu paket data yang bisa dikirimkan dalam satu kali transmisi",
+    "jawaban": "c"
+  },
+  {
+    "id": 176,
+    "soal": "Sebuah ISP (Internet Service Provider) menawarkan paket 'broadband' kepada pelanggannya. Istilah broadband merujuk pada...",
+    "a": "Jaringan yang hanya bisa digunakan untuk transmisi data, tidak termasuk suara dan video",
+    "b": "Kumpulan teknologi koneksi berkecepatan tinggi seperti DSL, kabel, satelit, nirkabel, dan fiber optik yang jauh lebih cepat dari dial-up",
+    "c": "Jaringan yang menggunakan gelombang radio frekuensi sangat tinggi untuk transmisi data",
+    "d": "Standar jaringan internasional yang ditetapkan oleh ISO untuk koneksi internet rumahan",
+    "e": "Teknologi jaringan yang memungkinkan satu kabel digunakan untuk mengirim banyak sinyal sekaligus",
+    "jawaban": "b"
+  },
+  {
+    "id": 177,
+    "soal": "Dalam konteks kebutuhan jaringan organisasi, 'peningkatan jangkauan pemasaran' melalui teknologi jaringan mengacu pada...",
+    "a": "Kemampuan mencetak brosur dan katalog produk menggunakan printer jaringan yang terhubung",
+    "b": "Kemampuan perusahaan mengirimkan newsletter melalui email kepada seluruh karyawan",
+    "c": "Pemanfaatan internet dan website untuk menjangkau pelanggan baru dan pemasok baru bahkan dari negara berbeda serta melakukan pemesanan produk secara online",
+    "d": "Penggunaan intranet untuk berbagi informasi marketing antar departemen pemasaran",
+    "e": "Kemampuan menganalisis data pesaing menggunakan tools business intelligence berbasis cloud",
+    "jawaban": "c"
+  },
+  {
+    "id": 178,
+    "soal": "Sebuah blog berbeda dari website berita konvensional dalam hal...",
+    "a": "Blog tidak bisa diakses melalui browser web biasa, memerlukan aplikasi khusus",
+    "b": "Blog adalah situs yang dibuat pengguna dengan entri dalam gaya jurnal yang biasanya ditampilkan dalam urutan kronologis terbalik",
+    "c": "Blog hanya berisi teks tanpa gambar, video, atau konten multimedia lainnya",
+    "d": "Blog harus diperbarui setiap hari, sedangkan website bisa diperbarui kapan saja",
+    "e": "Blog memerlukan registrasi berbayar, sedangkan website berita gratis untuk diakses",
+    "jawaban": "b"
+  },
+  {
+    "id": 179,
+    "soal": "Dalam OSI Model, physical layer adalah lapisan paling bawah. Apa yang terjadi di lapisan ini ketika sebuah komputer menerima data dari jaringan?",
+    "a": "Data dianalisis isi dan maknanya untuk diteruskan ke aplikasi yang tepat",
+    "b": "Paket data diperiksa alamat IP tujuannya dan diteruskan ke jaringan yang sesuai",
+    "c": "Sinyal yang diterima diubah menjadi bit (0 dan 1), kemudian diteruskan ke data-link layer untuk disusun menjadi frame",
+    "d": "Sesi komunikasi dibangun antara pengirim dan penerima sebelum data diteruskan",
+    "e": "Data didekripsi dan diubah formatnya dari format jaringan menjadi format yang bisa dibaca aplikasi",
+    "jawaban": "c"
+  },
+  {
+    "id": 180,
+    "soal": "Sebuah startup teknologi berencana membangun infrastruktur data yang mampu menyimpan data tidak terstruktur dalam skala besar (petabyte), memungkinkan berbagai tim untuk menganalisis data tersebut dengan skema yang fleksibel. Solusi yang paling tepat adalah...",
+    "a": "Membangun data warehouse dengan model data terstruktur yang dioptimalkan untuk kueri analitik yang cepat",
+    "b": "Menyewa DBMS relasional berbasis cloud dengan tabel yang terstruktur rapi untuk semua jenis data",
+    "c": "Mengimplementasikan data lake yang menyimpan data tidak terstruktur dari berbagai sumber dan mendorong skema yang fleksibel untuk analisis",
+    "d": "Menggunakan spreadsheet berbagi di cloud yang bisa diakses semua tim secara bersamaan",
+    "e": "Mengarsipkan semua data mentah ke media penyimpanan sekunder yang murah seperti tape backup",
+    "jawaban": "c"
+  },
+  {
+    "id": 181,
+    "soal": "Sebuah perusahaan retail besar ingin memastikan data stok barangnya selalu diperbarui secara langsung setiap kali terjadi transaksi penjualan. Pendekatan sistem manakah yang paling tepat untuk kebutuhan tersebut?",
+    "a": "Pemrosesan batch, karena seluruh transaksi dikumpulkan dulu lalu diproses sekaligus di akhir hari kerja",
+    "b": "Pemrosesan online, karena setiap transaksi langsung memperbarui file master dalam hitungan detik setelah data dimasukkan",
+    "c": "Pemrosesan manual, karena manusia lebih andal dalam memverifikasi data stok secara real-time",
+    "d": "Pemrosesan terdistribusi, karena data disebarkan ke banyak server sehingga tidak ada keterlambatan",
+    "e": "Pemrosesan sekuensial, karena data diurutkan terlebih dahulu sebelum diproses oleh sistem pusat",
+    "jawaban": "b"
+  },
+  {
+    "id": 182,
+    "soal": "Apa kelemahan utama dari pendekatan pemrosesan batch yang membedakannya dari pemrosesan online?",
+    "a": "Biaya operasionalnya jauh lebih tinggi karena membutuhkan server yang sangat besar dan mahal",
+    "b": "Tidak mampu menangani transaksi dalam jumlah besar sehingga sering terjadi antrian panjang",
+    "c": "Terdapat jeda waktu (time lag) antara terjadinya transaksi dan pembaruan file master, sehingga data tidak mencerminkan kondisi terkini",
+    "d": "Membutuhkan koneksi internet yang sangat cepat dan stabil agar proses berjalan tanpa gangguan",
+    "e": "Sistem tidak dapat menghasilkan laporan otomatis sehingga harus dikerjakan secara manual oleh staf",
+    "jawaban": "c"
+  },
+  {
+    "id": 183,
+    "soal": "Sistem ERP (Enterprise Resource Planning) dianggap berbeda dari sistem pemrosesan transaksi biasa. Salah satu perbedaan utamanya adalah...",
+    "a": "ERP hanya dapat digunakan oleh perusahaan multinasional dengan lebih dari 1.000 karyawan karena kompleksitasnya",
+    "b": "Modul ERP terintegrasi melalui definisi dan database umum, sehingga satu transaksi di satu area langsung berdampak pada semua area terkait lainnya",
+    "c": "ERP tidak memerlukan perubahan proses bisnis karena sistemnya menyesuaikan diri dengan kondisi perusahaan yang ada",
+    "d": "ERP hanya mencakup fungsi akuntansi dan keuangan, sedangkan fungsi lain dikelola oleh sistem terpisah",
+    "e": "ERP selalu dikembangkan sendiri oleh perusahaan karena tidak ada vendor yang menjual modul siap pakai",
+    "jawaban": "b"
+  },
+  {
+    "id": 184,
+    "soal": "PT Maju Bersama baru saja membeli sistem ERP dari vendor ternama. Ternyata beberapa proses bisnis mereka harus diubah agar sesuai dengan cara kerja modul ERP tersebut. Kondisi ini mencerminkan...",
+    "a": "Kegagalan implementasi karena sistem yang baik seharusnya selalu mengikuti kebutuhan unik perusahaan tanpa perubahan apapun",
+    "b": "Hal yang wajar dalam implementasi ERP, di mana perusahaan menyesuaikan proses bisnisnya dengan paket perangkat lunak, bukan sebaliknya",
+    "c": "Kesalahan vendor karena seharusnya modul ERP dikustomisasi penuh sesuai alur kerja klien sebelum dijual",
+    "d": "Tanda bahwa perusahaan memilih vendor yang tidak tepat dan harus segera beralih ke vendor lain",
+    "e": "Situasi yang hanya terjadi pada perusahaan skala kecil yang belum memiliki proses bisnis yang matang",
+    "jawaban": "b"
+  },
+  {
+    "id": 185,
+    "soal": "Dalam konteks sistem perusahaan, apa yang dimaksud dengan sistem interorganisasional?",
+    "a": "Sistem yang hanya digunakan oleh satu departemen dalam sebuah perusahaan untuk mengelola data internalnya",
+    "b": "Sistem yang menghubungkan beberapa organisasi yang berbeda, contohnya perdagangan elektronik dan pertukaran data elektronik (EDI)",
+    "c": "Sistem yang digunakan oleh manajer puncak untuk memantau kinerja seluruh divisi dalam satu perusahaan",
+    "d": "Sistem yang mengintegrasikan data dari berbagai fungsi bisnis seperti produksi, pemasaran, dan akuntansi dalam satu perusahaan",
+    "e": "Sistem yang beroperasi secara offline dan tidak memerlukan koneksi jaringan antarorganisasi",
+    "jawaban": "b"
+  },
+  {
+    "id": 186,
+    "soal": "Sebuah platform e-commerce menghubungkan produsen sepatu langsung dengan toko-toko pengecer tanpa keterlibatan konsumen akhir. Model bisnis ini merupakan contoh dari...",
+    "a": "B2C (Business-to-Customer) karena transaksi dilakukan secara digital melalui internet",
+    "b": "C2C (Customer-to-Customer) karena kedua pihak merupakan entitas yang saling bertransaksi",
+    "c": "B2B (Business-to-Business) karena sistem menghubungkan dua entitas bisnis yaitu produsen dan pengecer",
+    "d": "B2G (Business-to-Government) karena transaksi antar lembaga dianggap sebagai aktivitas formal",
+    "e": "G2C (Government-to-Customer) karena pengecer dianggap sebagai pihak yang menerima layanan",
+    "jawaban": "c"
+  },
+  {
+    "id": 187,
+    "soal": "Dalam sistem client-server, middleware memiliki peran yang sangat penting. Apa fungsi utama dari middleware?",
+    "a": "Menyimpan seluruh data transaksi perusahaan dalam database yang hanya bisa diakses oleh server pusat",
+    "b": "Menampilkan antarmuka grafis kepada pengguna akhir agar dapat berinteraksi dengan aplikasi dengan mudah",
+    "c": "Mencakup semua perangkat lunak yang diperlukan untuk mendukung interaksi antara klien dan server agar komunikasi dapat berjalan lancar",
+    "d": "Menggantikan fungsi sistem operasi sehingga klien dan server dapat berjalan tanpa OS khusus",
+    "e": "Mengenkripsi seluruh data yang dikirimkan antara klien dan server untuk mencegah kebocoran informasi",
+    "jawaban": "c"
+  },
+  {
+    "id": 188,
+    "soal": "Sebuah perusahaan logistik memiliki kantor di 10 kota berbeda. Setiap kantor memiliki server lokal yang terhubung satu sama lain melalui jalur telekomunikasi untuk mendukung proses bisnis terpusat. Ini merupakan contoh penerapan...",
+    "a": "Sistem client-server dua tingkat, karena setiap kantor bertindak sebagai klien yang mengakses server pusat",
+    "b": "Sistem terdistribusi, karena kekuatan pemrosesan tersebar di berbagai lokasi fisik yang dihubungkan oleh jalur telekomunikasi",
+    "c": "Sistem mainframe terpusat, karena semua data tetap diproses di satu lokasi yang terhubung ke terminal di setiap kantor",
+    "d": "Sistem batch processing, karena data dari seluruh kantor dikumpulkan dulu sebelum diproses secara bersamaan",
+    "e": "Sistem virtualisasi penuh, karena setiap server lokal berjalan di atas hypervisor yang dikelola dari pusat",
+    "jawaban": "b"
+  },
+  {
+    "id": 189,
+    "soal": "Virtualisasi server memungkinkan satu server fisik dibagi menjadi beberapa server virtual. Manfaat utama bagi organisasi yang menerapkan virtualisasi adalah...",
+    "a": "Meningkatkan kebutuhan hardware secara signifikan karena setiap layanan memerlukan server fisik tersendiri",
+    "b": "Mengurangi jumlah server fisik yang dibutuhkan sehingga menghemat biaya dan ruang, sementara setiap server virtual tetap bisa menjalankan sistem operasinya sendiri",
+    "c": "Memastikan bahwa semua aplikasi berjalan pada sistem operasi yang sama sehingga kompatibilitas terjaga",
+    "d": "Menghilangkan kebutuhan akan jaringan telekomunikasi karena komunikasi antar server terjadi secara internal",
+    "e": "Membuat data pengguna disimpan secara lokal di setiap perangkat desktop untuk keamanan yang lebih baik",
+    "jawaban": "b"
+  },
+  {
+    "id": 190,
+    "soal": "SOA (Service-Oriented Architecture) memiliki keunggulan dibandingkan arsitektur aplikasi konvensional. Keunggulan utama SOA yang paling tepat adalah...",
+    "a": "Layanan SOA hanya bisa dibangun menggunakan bahasa pemrograman XML sehingga standarnya seragam di seluruh industri",
+    "b": "Setelah layanan dibuat, layanan tersebut dapat digunakan berulang kali dalam aplikasi berbeda dan dapat dihubungkan secara bervariasi tanpa perlu dibangun ulang",
+    "c": "SOA menggantikan semua jenis arsitektur lama secara otomatis sehingga tidak diperlukan migrasi data",
+    "d": "Layanan dalam SOA tidak memerlukan protokol komunikasi apapun karena berjalan secara independen di masing-masing mesin",
+    "e": "SOA hanya cocok untuk perusahaan teknologi karena memerlukan infrastruktur yang sangat canggih dan mahal",
+    "jawaban": "b"
+  },
+  {
+    "id": 191,
+    "soal": "Apa perbedaan mendasar antara SOA (Service-Oriented Architecture) dengan Web Services?",
+    "a": "SOA adalah konsep/arsitektur yang lebih luas, sedangkan Web Services adalah kumpulan teknologi tertentu berbasis XML yang bisa menjadi salah satu cara layanan SOA berkomunikasi",
+    "b": "Web Services lebih canggih dari SOA karena mendukung lebih banyak protokol komunikasi lintas platform",
+    "c": "SOA dan Web Services adalah istilah yang sepenuhnya identik dan dapat digunakan secara bergantian dalam konteks apapun",
+    "d": "Web Services hanya bisa digunakan dalam jaringan internal perusahaan, sedangkan SOA dirancang untuk komunikasi internet publik",
+    "e": "SOA merupakan versi terbaru dari Web Services yang menggantikan standar lama berbasis SOAP dan WSDL",
+    "jawaban": "a"
+  },
+  {
+    "id": 192,
+    "soal": "Dalam sistem penggajian (payroll), selain menghitung gaji pokok dan jam kerja, subsistem ini juga harus mampu...",
+    "a": "Mengintegrasikan data penjualan produk dengan laporan kinerja karyawan secara real-time",
+    "b": "Menyimpan total pendapatan kotor, potongan individu, berbagai kategori pajak, dan kontribusi jaminan sosial dari tahun ke tahun",
+    "c": "Mengelola inventaris bahan baku yang digunakan dalam proses produksi setiap harinya",
+    "d": "Menghasilkan jadwal produksi harian berdasarkan kapasitas mesin dan ketersediaan tenaga kerja",
+    "e": "Memantau transaksi pembelian pelanggan dan mengintegrasikannya dengan sistem manajemen hubungan pelanggan",
+    "jawaban": "b"
+  },
+  {
+    "id": 193,
+    "soal": "Sistem order entry (pemasukan pesanan) yang terintegrasi dengan baik dapat melakukan lebih dari sekedar mencatat pesanan. Salah satu kemampuan penting sistem ini adalah...",
+    "a": "Memprogram ulang mesin produksi secara otomatis berdasarkan jenis pesanan yang masuk dari pelanggan",
+    "b": "Memeriksa status kredit pelanggan secara otomatis dan menolak transaksi jika batas kredit pelanggan telah terlampaui",
+    "c": "Mengelola jadwal pengiriman armada truk secara langsung tanpa perlu koordinasi dengan divisi logistik",
+    "d": "Mengubah harga produk secara dinamis berdasarkan fluktuasi permintaan pasar secara real-time",
+    "e": "Menghubungi pelanggan secara otomatis melalui panggilan telepon jika ada keterlambatan dalam pemrosesan pesanan",
+    "jawaban": "b"
+  },
+  {
+    "id": 194,
+    "soal": "Data warehousing memerlukan tiga jenis perangkat lunak untuk berfungsi dengan baik. Perangkat lunak yang bertugas mengekstrak data dari basis data operasional, memastikan kualitas data, dan memuatnya ke dalam gudang disebut...",
+    "a": "Perangkat lunak operasi gudang, yang berfungsi mengelola penyimpanan dan pemeliharaan gudang data secara berkelanjutan",
+    "b": "Perangkat lunak akses dan analisis gudang, yang memungkinkan pengguna menghasilkan laporan dan kueri dari data yang tersimpan",
+    "c": "Perangkat lunak konstruksi gudang, yang mengekstrak data relevan, membersihkannya dari kesalahan, mengubahnya ke bentuk yang bisa digunakan, lalu memuatnya ke gudang",
+    "d": "Perangkat lunak manajemen metadata, yang mendokumentasikan struktur dan asal-usul setiap data yang masuk ke dalam gudang",
+    "e": "Perangkat lunak replikasi data, yang membuat salinan identik dari basis data operasional untuk tujuan backup dan pemulihan",
+    "jawaban": "c"
+  },
+  {
+    "id": 195,
+    "soal": "Sistem CRM (Customer Relationship Management) bertujuan untuk memberikan pendekatan terintegrasi terhadap interaksi dengan pelanggan. Fitur utama yang umumnya tersedia dalam aplikasi CRM adalah...",
+    "a": "Pengelolaan rantai pasokan bahan baku dari pemasok hingga ke lini produksi pabrik secara otomatis",
+    "b": "Call-center support, otomatisasi tenaga penjualan, dan marketing support yang terintegrasi dalam satu platform",
+    "c": "Pemrosesan penggajian karyawan yang terhubung dengan data kinerja layanan pelanggan",
+    "d": "Perencanaan kebutuhan material dan penjadwalan produksi berdasarkan tren permintaan pelanggan",
+    "e": "Pengelolaan inventaris gudang yang terhubung langsung dengan profil pembelian setiap pelanggan",
+    "jawaban": "b"
+  },
+  {
+    "id": 196,
+    "soal": "Unified Communications (UC) merupakan bagian dari otomatisasi kantor modern. Konsep utama dari UC adalah...",
+    "a": "Penggabungan seluruh perangkat keras komunikasi dalam satu ruangan khusus agar lebih efisien dan mudah dikelola",
+    "b": "Integrasi layanan komunikasi real-time seperti telepon dan IM dengan layanan non-real-time seperti email dan voicemail, sehingga pesan di satu media bisa diakses di media lain",
+    "c": "Penggunaan satu aplikasi tunggal yang menggantikan semua platform komunikasi yang ada dalam sebuah organisasi",
+    "d": "Standarisasi protokol komunikasi agar semua perangkat dari berbagai vendor dapat terhubung tanpa konfigurasi tambahan",
+    "e": "Sistem yang memungkinkan seluruh komunikasi perusahaan direkam dan diarsipkan secara otomatis untuk keperluan audit",
+    "jawaban": "b"
+  },
+  {
+    "id": 197,
+    "soal": "SAP ERP adalah salah satu sistem ERP paling populer di dunia. Bahasa pemrograman generasi keempat yang digunakan SAP dan dapat dimanfaatkan pelanggan untuk memodifikasi atau meningkatkan modul standar adalah...",
+    "a": "SQL, karena bahasa ini adalah standar universal untuk manipulasi data dalam sistem manajemen basis data relasional",
+    "b": "Java, karena SAP menggunakan platform Java Enterprise Edition untuk semua modul intinya",
+    "c": "ABAP, yaitu bahasa generasi keempat milik SAP yang dapat digunakan pelanggan untuk memodifikasi atau meningkatkan modul standar",
+    "d": "Python, karena fleksibilitasnya dalam pengembangan modul bisnis yang kompleks dan terintegrasi",
+    "e": "COBOL, karena SAP dibangun di atas fondasi sistem mainframe yang menggunakan bahasa ini sejak awal pengembangannya",
+    "jawaban": "c"
+  },
+  {
+    "id": 198,
+    "soal": "Groupware atau lingkungan kolaboratif dirancang untuk mendukung kerja kelompok. Mana pernyataan berikut yang paling tepat menggambarkan karakteristik groupware?",
+    "a": "Groupware adalah aplikasi yang hanya berfokus pada pengelolaan dokumen dan tidak mencakup fitur komunikasi antar anggota tim",
+    "b": "Groupware mencakup berbagai fitur seperti email, kalender elektronik, penjadwalan grup, berbagi dokumen, dan video konferensi untuk memfasilitasi kolaborasi dan koordinasi",
+    "c": "Groupware identik dengan sistem ERP karena keduanya dirancang untuk mengintegrasikan semua fungsi bisnis dalam satu platform",
+    "d": "Groupware hanya bisa digunakan dalam jaringan lokal (LAN) dan tidak mendukung kolaborasi jarak jauh melalui internet",
+    "e": "Groupware adalah perangkat lunak khusus yang hanya digunakan oleh tim IT untuk mengelola infrastruktur teknologi perusahaan",
+    "jawaban": "b"
+  },
+  {
+    "id": 199,
+    "soal": "Intranet berbeda dari internet meskipun keduanya menggunakan protokol TCP/IP yang sama. Apa perbedaan mendasar antara intranet dan internet?",
+    "a": "Intranet menggunakan protokol yang berbeda dari internet sehingga membutuhkan browser dan infrastruktur yang berbeda pula",
+    "b": "Intranet beroperasi di dalam organisasi dan tidak dapat diakses dari luar organisasi, sedangkan internet bersifat publik dan dapat diakses oleh siapapun",
+    "c": "Intranet hanya dapat menampilkan teks dan tidak mendukung konten multimedia seperti gambar dan video",
+    "d": "Intranet lebih lambat dari internet karena terbatas pada kapasitas jaringan lokal yang dimiliki perusahaan",
+    "e": "Intranet tidak memerlukan server khusus karena data disimpan langsung di setiap komputer pengguna dalam jaringan",
+    "jawaban": "b"
+  },
+  {
+    "id": 200,
+    "soal": "Sistem manajemen rantai pasokan (SCM) memiliki lima komponen dasar. Komponen 'source' dalam SCM merujuk pada...",
+    "a": "Langkah pembuatan produk, termasuk penjadwalan semua aktivitas manufaktur yang diperlukan untuk memenuhi pesanan",
+    "b": "Proses pengembalian produk cacat atau berlebih serta pemberian dukungan kepada pelanggan yang menghadapi masalah",
+    "c": "Pengembangan strategi dengan metrik yang sesuai untuk mengelola semua sumber daya guna memenuhi permintaan pelanggan",
+    "d": "Proses memilih pemasok untuk sumber daya yang diperlukan serta mengembangkan proses penetapan harga, pengiriman, dan manajemen inventaris",
+    "e": "Logistik yang berkaitan dengan penyampaian produk atau layanan perusahaan kepada pelanggan akhir",
+    "jawaban": "d"
+  },
+  {
+    "id": 201,
+    "soal": "Dalam konteks SCM, komponen 'return' memiliki peran yang sering diabaikan padahal sangat penting. Apa yang dimaksud dengan komponen return dalam SCM?",
+    "a": "Penghitungan return on investment dari seluruh aktivitas rantai pasokan untuk laporan keuangan tahunan",
+    "b": "Proses perencanaan produksi ulang ketika permintaan melebihi kapasitas pasokan yang tersedia saat ini",
+    "c": "Penciptaan prosedur untuk menangani produk yang cacat atau berlebih, serta memberikan dukungan kepada pelanggan yang mengalami masalah",
+    "d": "Pengelolaan pengembalian keuntungan kepada investor yang telah mendanai proyek pengembangan rantai pasokan",
+    "e": "Proses pengiriman ulang produk kepada pelanggan yang tidak menerima barang mereka tepat waktu",
+    "jawaban": "c"
+  },
+  {
+    "id": 202,
+    "soal": "DSS (Decision Support System) dirancang untuk membantu pengambil keputusan. Pernyataan yang paling tepat menggambarkan cara kerja DSS adalah...",
+    "a": "DSS bekerja sepenuhnya otomatis tanpa keterlibatan manusia, menghasilkan keputusan final yang langsung dieksekusi oleh sistem",
+    "b": "DSS menggabungkan data dan model untuk membantu pengambil keputusan memecahkan masalah, terutama yang tidak terstruktur, melalui interaksi dengan komponen manajemen dialog",
+    "c": "DSS hanya dapat digunakan oleh manajer tingkat atas karena antarmukanya sangat kompleks dan memerlukan keahlian teknis tinggi",
+    "d": "DSS identik dengan sistem pemrosesan transaksi karena keduanya mengolah data operasional perusahaan secara berkala",
+    "e": "DSS bekerja dengan mengumpulkan pendapat dari seluruh karyawan perusahaan untuk menghasilkan keputusan berbasis konsensus",
+    "jawaban": "b"
+  },
+  {
+    "id": 203,
+    "soal": "Seorang manajer menggunakan sistem yang memungkinkannya menganalisis data penjualan berdasarkan dimensi waktu, wilayah geografis, dan kategori produk secara fleksibel. Ini adalah karakteristik dari...",
+    "a": "Data mining berbasis algoritma genetika, yang mencari pola tersembunyi dalam data melalui proses evolusi komputasional",
+    "b": "OLTP (Online Transaction Processing), yang memproses transaksi secara langsung dan memungkinkan editing data secara real-time",
+    "c": "OLAP (Online Analytical Processing), yang memungkinkan analisis data multidimensi berdasarkan dimensi seperti waktu, wilayah, dan unit organisasi",
+    "d": "Expert system, yang menggunakan basis pengetahuan pakar untuk memberikan rekomendasi spesifik kepada manajer",
+    "e": "Neural network, yang mengenali pola dari data historis untuk memprediksi tren penjualan di masa mendatang",
+    "jawaban": "c"
+  },
+  {
+    "id": 204,
+    "soal": "Apa perbedaan konseptual paling mendasar antara OLAP dan data mining?",
+    "a": "OLAP memerlukan koneksi internet sedangkan data mining dapat berjalan secara offline tanpa jaringan apapun",
+    "b": "OLAP adalah analisis yang digerakkan oleh manusia melalui kueri yang dirancang pengguna, sedangkan data mining digerakkan oleh teknik algoritma untuk menemukan pola tersembunyi",
+    "c": "OLAP hanya cocok untuk data keuangan sedangkan data mining dirancang khusus untuk data pemasaran dan penjualan",
+    "d": "OLAP menggunakan jaringan saraf untuk analisisnya sedangkan data mining hanya menggunakan metode statistik tradisional",
+    "e": "OLAP adalah sistem baru yang menggantikan data mining karena lebih akurat dan lebih mudah digunakan",
+    "jawaban": "b"
+  },
+  {
+    "id": 205,
+    "soal": "Sebuah bank menggunakan sistem yang mampu mendeteksi pola transaksi tidak biasa secara otomatis dan memberikan peringatan ketika ada kemungkinan penipuan. Teknik data mining yang paling relevan untuk aplikasi ini adalah...",
+    "a": "Analisis keranjang pasar (market basket analysis) untuk mengidentifikasi produk yang sering dibeli bersama oleh nasabah",
+    "b": "Segmentasi pasar untuk mengelompokkan nasabah berdasarkan perilaku keuangan dan tingkat risiko kredit mereka",
+    "c": "Deteksi penipuan (fraud detection), yang mengidentifikasi transaksi yang paling mungkin merupakan kecurangan berdasarkan pola dan tren historis",
+    "d": "Cross-selling untuk merekomendasikan produk perbankan tambahan kepada nasabah yang memiliki profil serupa",
+    "e": "Analisis default pembayaran untuk memprediksi nasabah yang kemungkinan besar akan gagal membayar pinjaman mereka",
+    "jawaban": "c"
+  },
+  {
+    "id": 206,
+    "soal": "GSS (Group Support System) dirancang untuk meningkatkan produktivitas pertemuan kelompok. Salah satu keunggulan GSS dibandingkan pertemuan tatap muka konvensional adalah...",
+    "a": "GSS menghilangkan kebutuhan akan agenda rapat karena sistem akan menentukan topik diskusi secara otomatis",
+    "b": "GSS memastikan bahwa satu anggota yang paling berpengalaman selalu dapat mendominasi diskusi untuk menghasilkan keputusan terbaik",
+    "c": "Komunikasi dalam GSS dapat dilakukan secara paralel dan pencatatan hasil diskusi dilakukan secara otomatis oleh sistem",
+    "d": "GSS menghilangkan perbedaan pendapat karena semua anggota harus menyetujui keputusan sebelum rapat berakhir",
+    "e": "GSS memungkinkan pertemuan berlangsung lebih singkat karena membatasi jumlah topik yang dapat didiskusikan setiap sesi",
+    "jawaban": "c"
+  },
+  {
+    "id": 207,
+    "soal": "Sebuah perusahaan ingin melakukan rapat pengambilan keputusan strategis dengan partisipan dari 5 negara berbeda. Tantangan yang paling mungkin muncul jika menggunakan GSS dalam konteks ini adalah...",
+    "a": "Peserta tidak dapat menggunakan bahasa ibu mereka karena GSS hanya mendukung satu bahasa komunikasi",
+    "b": "Potensi kegagalan teknis seperti kehilangan konektivitas atau daya, biaya infrastruktur yang membengkak, dan kecenderungan anggota untuk saling mengandalkan",
+    "c": "Semua peserta harus berada di zona waktu yang sama agar sesi GSS dapat berlangsung secara efektif",
+    "d": "GSS tidak mendukung presentasi visual sehingga data dan grafik tidak dapat ditampilkan dalam pertemuan virtual",
+    "e": "Keputusan yang dihasilkan melalui GSS tidak memiliki kekuatan hukum karena tidak ada tanda tangan fisik dari peserta",
+    "jawaban": "b"
+  },
+  {
+    "id": 208,
+    "soal": "GIS (Geographic Information System) digunakan untuk mendukung pengambilan keputusan berdasarkan data spasial. Bidang bisnis mana yang paling tepat memanfaatkan analisis GIS?",
+    "a": "Perusahaan asuransi jiwa yang ingin menghitung premi berdasarkan usia dan riwayat kesehatan nasabah",
+    "b": "Perusahaan periklanan yang ingin menganalisis efektivitas kampanye di media sosial berdasarkan jumlah klik",
+    "c": "Perusahaan ritel yang ingin menentukan lokasi pembukaan gerai baru berdasarkan kepadatan penduduk, aksesibilitas, dan pola konsumsi di suatu wilayah",
+    "d": "Perusahaan teknologi yang ingin mengembangkan algoritma rekomendasi produk berdasarkan riwayat pembelian pengguna",
+    "e": "Perusahaan manufaktur yang ingin mengoptimalkan jadwal produksi berdasarkan ketersediaan bahan baku dan kapasitas mesin",
+    "jawaban": "c"
+  },
+  {
+    "id": 209,
+    "soal": "Dalam GIS, terdapat dua pendekatan representasi data spasial yaitu raster dan vektor. Pernyataan yang paling tepat mengenai perbedaan keduanya adalah...",
+    "a": "Raster menggunakan titik, garis, dan poligon untuk merepresentasikan fitur geografis, sedangkan vektor membagi ruang menjadi sel-sel kecil yang sama besar",
+    "b": "GIS berbasis raster membagi ruang menjadi sel-sel kecil dan cocok untuk citra satelit, sedangkan GIS berbasis vektor menggunakan titik, garis, dan poligon serta banyak digunakan dalam administrasi publik dan layanan kota",
+    "c": "Raster lebih akurat dari vektor karena mampu menangkap detail geografis hingga resolusi milidetik dalam satu sel tunggal",
+    "d": "Vektor hanya dapat digunakan untuk memetakan batas-batas negara, sedangkan raster digunakan untuk semua jenis fitur geografis lainnya",
+    "e": "Kedua pendekatan menghasilkan output yang identik dan pemilihannya hanya bergantung pada preferensi pengguna semata",
+    "jawaban": "b"
+  },
+  {
+    "id": 210,
+    "soal": "EIS (Executive Information System) dirancang khusus untuk kebutuhan manajemen senior. Fitur utama yang membedakan EIS dari sistem informasi biasa adalah...",
+    "a": "EIS mampu memproses jutaan transaksi per detik karena dirancang untuk operasional skala besar perusahaan",
+    "b": "EIS hanya dapat diakses melalui perangkat khusus yang terhubung langsung ke mainframe perusahaan",
+    "c": "EIS menyediakan informasi terkini yang sudah difilter dan dikumpulkan dalam format yang mudah dinavigasi, menggunakan grafik dan metode visualisasi canggih, serta dapat diakses langsung oleh manajer tanpa perantara",
+    "d": "EIS berfokus pada analisis data historis jangka panjang dan tidak menampilkan informasi real-time karena memerlukan verifikasi manual",
+    "e": "EIS dirancang untuk seluruh karyawan perusahaan agar semua orang memiliki akses yang sama terhadap data strategis",
+    "jawaban": "c"
+  },
+  {
+    "id": 211,
+    "soal": "KMS (Knowledge Management System) bertujuan membantu organisasi mengelola pengetahuannya. Apa yang membedakan KMS dari sistem informasi biasa?",
+    "a": "KMS hanya menyimpan data terstruktur seperti angka dan tabel, sedangkan sistem informasi biasa dapat menangani data tidak terstruktur",
+    "b": "KMS memungkinkan individu dan organisasi meningkatkan pembelajaran, kinerja, dan keunggulan kompetitif melalui pengelolaan pengetahuan, bukan sekedar penyimpanan data",
+    "c": "KMS selalu berbasis kecerdasan buatan dan tidak memerlukan interaksi manusia dalam proses penyimpanan dan berbagi pengetahuan",
+    "d": "KMS adalah versi yang disederhanakan dari ERP yang hanya mencakup modul manajemen sumber daya manusia",
+    "e": "KMS dirancang eksklusif untuk perusahaan konsultan dan firma riset yang menghasilkan pengetahuan sebagai produk utamanya",
+    "jawaban": "b"
+  },
+  {
+    "id": 212,
+    "soal": "Dalam implementasi KMS di perusahaan farmasi, koordinator komunitas praktik memiliki peran penting. Tugas spesifik koordinator tersebut meliputi...",
+    "a": "Mengembangkan seluruh kode perangkat lunak KMS dan memastikan sistem berjalan tanpa gangguan teknis selama 24 jam",
+    "b": "Menyambut anggota baru, memelihara standar perilaku dan pengetahuan komunitas, memantau forum diskusi, dan berfungsi sebagai duta eksternal komunitas",
+    "c": "Menentukan strategi bisnis perusahaan berdasarkan pengetahuan yang terkumpul dalam sistem komunitas praktik",
+    "d": "Mengelola anggaran departemen dan mengalokasikan sumber daya untuk pengembangan konten pengetahuan baru",
+    "e": "Melakukan audit keamanan data secara berkala untuk memastikan pengetahuan rahasia perusahaan tidak bocor ke pesaing",
+    "jawaban": "b"
+  },
+  {
+    "id": 213,
+    "soal": "Dalam kecerdasan buatan (AI), cabang yang berfokus pada pembuatan sistem yang memasukkan logika pengambilan keputusan dari seorang manusia ahli ke dalam komputer disebut...",
+    "a": "Natural language processing, yang memungkinkan komputer memahami dan mengeksekusi instruksi dalam bahasa manusia sehari-hari",
+    "b": "Neural network, yang meniru cara kerja sistem saraf manusia untuk mengenali pola dari sejumlah besar data",
+    "c": "Expert system, yang mencoba membangun sistem yang menggabungkan logika pengambilan keputusan dari seorang manusia yang ahli di bidang tertentu",
+    "d": "Genetic programming, yang memecah masalah kompleks dan menghubungkan solusi dari berbagai segmen untuk menghasilkan output unggul",
+    "e": "Robotic process automation, yang mengotomatiskan tugas berulang yang sebelumnya dilakukan oleh manusia secara manual",
+    "jawaban": "c"
+  },
+  {
+    "id": 214,
+    "soal": "Sistem MYCIN yang dikembangkan di Universitas Stanford merupakan contoh klasik dari expert system. Kemampuan utama sistem MYCIN adalah...",
+    "a": "Mengelola jadwal produksi dan mengendalikan robot di lini manufaktur secara real-time",
+    "b": "Mendiagnosis dan meresepkan pengobatan untuk meningitis dan penyakit darah menggunakan basis pengetahuan pakar medis",
+    "c": "Menganalisis data keuangan perusahaan dan memberikan rekomendasi investasi berdasarkan kondisi pasar terkini",
+    "d": "Menerjemahkan instruksi medis dari berbagai bahasa ke dalam bahasa standar yang dipahami oleh seluruh tenaga medis",
+    "e": "Memantau kondisi pasien secara real-time dan mengirimkan peringatan kepada dokter jika terjadi perubahan kondisi kritis",
+    "jawaban": "b"
+  },
+  {
+    "id": 215,
+    "soal": "Dalam pengembangan expert system, seorang 'knowledge engineer' memiliki peran yang sangat krusial. Apa yang dilakukan oleh knowledge engineer?",
+    "a": "Menulis kode program untuk antarmuka pengguna sistem pakar agar tampilannya menarik dan mudah digunakan",
+    "b": "Bekerja erat dengan pakar di bidang yang dipelajari untuk mempelajari cara pakar membuat keputusan, kemudian memuat pengetahuan tersebut ke dalam basis pengetahuan sistem",
+    "c": "Mengelola infrastruktur server tempat sistem pakar berjalan dan memastikan performa sistem selalu optimal",
+    "d": "Mengumpulkan data historis dari database perusahaan untuk digunakan sebagai bahan latihan sistem pakar",
+    "e": "Melakukan evaluasi hasil keputusan sistem pakar dan membandingkannya dengan keputusan pakar manusia untuk mengukur akurasi",
+    "jawaban": "b"
+  },
+  {
+    "id": 216,
+    "soal": "Neural network berbeda dari expert system dalam cara menghasilkan output. Perbedaan mendasar tersebut adalah...",
+    "a": "Expert system menggunakan data numerik sedangkan neural network hanya dapat bekerja dengan data tekstual",
+    "b": "Neural network dapat mengenali pola yang terlalu kabur bagi manusia dan beradaptasi saat informasi baru diterima, sedangkan expert system menangkap keahlian manusia dalam bentuk aturan yang eksplisit",
+    "c": "Expert system lebih akurat dari neural network karena menggunakan logika formal sedangkan neural network hanya menggunakan estimasi statistik",
+    "d": "Neural network memerlukan pakar manusia untuk setiap keputusan, sedangkan expert system bekerja sepenuhnya otomatis tanpa intervensi manusia",
+    "e": "Expert system cocok untuk semua jenis masalah sedangkan neural network hanya efektif untuk masalah yang memiliki jawaban biner ya atau tidak",
+    "jawaban": "b"
+  },
+  {
+    "id": 217,
+    "soal": "Virtual Reality (VR) bekerja dengan prinsip memanipulasi persepsi pengguna. Cara kerja VR yang paling tepat digambarkan adalah...",
+    "a": "VR mengganti monitor komputer konvensional dengan layar lebih besar untuk meningkatkan resolusi dan kejernihan tampilan",
+    "b": "VR memanipulasi otak manusia melalui alat seperti kacamata VR sehingga pengguna merasa masuk ke dunia virtual yang tampak dan terasa nyata",
+    "c": "VR bekerja dengan memproyeksikan gambar holografis ke udara sehingga pengguna dapat berinteraksi dengan objek tiga dimensi secara langsung",
+    "d": "VR menggunakan teknologi layar sentuh khusus yang merespons gerakan jari dengan umpan balik taktil yang sangat presisi",
+    "e": "VR menciptakan lingkungan simulasi dua dimensi yang sangat detail dan realistis menggunakan teknik rendering grafis terkini",
+    "jawaban": "b"
+  },
+  {
+    "id": 218,
+    "soal": "Perusahaan A menggunakan pendekatan sistem informasi fungsional. Artinya...",
+    "a": "Semua sistem informasi diintegrasikan dalam satu platform tunggal yang mengelola seluruh fungsi bisnis tanpa pemisahan",
+    "b": "Aplikasi sistem informasi dikategorikan berdasarkan fungsi bisnis utama seperti pemasaran, produksi, akuntansi, dan personalia, dengan masing-masing subsistem yang mungkin saling terkait",
+    "c": "Sistem informasi hanya digunakan oleh fungsi teknis perusahaan dan tidak melibatkan departemen non-teknis seperti pemasaran",
+    "d": "Setiap fungsi bisnis memiliki sistem informasi yang sepenuhnya independen dan tidak memiliki kaitan dengan fungsi bisnis lainnya",
+    "e": "Sistem informasi fungsional identik dengan ERP karena keduanya mengintegrasikan seluruh fungsi bisnis dalam satu database",
+    "jawaban": "b"
+  },
+  {
+    "id": 219,
+    "soal": "Sistem informasi terintegrasi secara vertikal memiliki karakteristik yang khas. Manakah pernyataan berikut yang paling tepat menggambarkan sistem tersebut?",
+    "a": "Sistem yang melayani satu tingkat manajemen secara eksklusif dan tidak dapat diakses oleh tingkat manajemen lainnya",
+    "b": "Sistem yang melayani lebih dari satu tingkat vertikal dalam organisasi, di mana data yang sama dapat digunakan sebagai input operasional, laporan manajerial menengah, sekaligus analisis strategis eksekutif",
+    "c": "Sistem yang menghubungkan beberapa perusahaan dalam satu industri secara vertikal dari produsen bahan baku hingga pengecer",
+    "d": "Sistem yang mengintegrasikan data dari berbagai sumber eksternal seperti pemasok dan pelanggan ke dalam satu database terpusat",
+    "e": "Sistem yang dirancang khusus untuk memfasilitasi komunikasi dari manajer atas ke bawahan secara hierarkis dan formal",
+    "jawaban": "b"
+  },
+  {
+    "id": 220,
+    "soal": "Otomatisasi pabrik modern mencakup CAD dan CAE. Apa perbedaan fungsi antara CAD dan CAE?",
+    "a": "CAD mengontrol mesin-mesin di lantai produksi secara langsung sedangkan CAE mengelola jadwal produksi berdasarkan kapasitas pabrik",
+    "b": "CAD digunakan untuk membuat dan memodifikasi desain teknik menggunakan grafik komputer, sedangkan CAE menganalisis karakteristik fungsional desain dan mensimulasikan kinerja produk dalam berbagai kondisi",
+    "c": "CAD adalah sistem yang lebih baru dan menggantikan fungsi CAE karena memiliki kemampuan simulasi yang lebih canggih",
+    "d": "CAE digunakan pada tahap awal desain sedangkan CAD digunakan setelah produk selesai diproduksi untuk dokumentasi teknis",
+    "e": "Keduanya memiliki fungsi yang identik, hanya berbeda dalam vendor yang menyediakan perangkat lunaknya",
+    "jawaban": "b"
+  },
+  {
+    "id": 221,
+    "soal": "Dalam sistem pemrosesan transaksi, sebuah perusahaan manufaktur menggunakan mesin kasir di lantai penjualan yang terhubung ke server di back office. Ketika penjualan kredit dilakukan, server mengambil catatan pelanggan dan mengembalikan otorisasi kredit. Ini adalah contoh penerapan...",
+    "a": "Sistem batch processing tiga tingkat, karena transaksi dikumpulkan dulu sebelum diproses oleh server di akhir hari",
+    "b": "Sistem mainframe terpusat, karena semua pemrosesan dilakukan di server pusat tanpa kontribusi dari terminal klien",
+    "c": "Sistem client-server, di mana mesin kasir bertindak sebagai klien yang menerima data dan menampilkan output, sedangkan server memelihara database dan memproses otorisasi",
+    "d": "Sistem terdistribusi penuh, karena data disimpan di banyak server sekaligus untuk menjamin ketersediaan layanan",
+    "e": "Sistem SOA berbasis web service, karena komunikasi antara kasir dan server menggunakan standar XML",
+    "jawaban": "c"
+  },
+  {
+    "id": 222,
+    "soal": "Algoritma pohon keputusan (decision tree) dalam data mining bekerja dengan cara...",
+    "a": "Menghubungkan semua catatan dalam database menggunakan relasi hierarkis yang membentuk struktur seperti pohon keluarga",
+    "b": "Membangun struktur berbentuk pohon dari data yang mewakili kumpulan keputusan, sehingga ketika serangkaian keputusan baru disajikan sistem dapat memprediksi hasilnya secara optimal",
+    "c": "Menggabungkan data dari berbagai sumber yang berbeda ke dalam satu node pusat yang disebut akar pohon untuk analisis terpadu",
+    "d": "Mengelompokkan data berdasarkan kesamaan atribut hingga membentuk cluster yang dapat divisualisasikan sebagai diagram pohon",
+    "e": "Mencari aturan asosiasi dalam data transaksi untuk menemukan produk yang sering dibeli bersamaan oleh pelanggan",
+    "jawaban": "b"
+  },
+  {
+    "id": 223,
+    "soal": "Sebuah supermarket menganalisis data transaksi dan menemukan bahwa pelanggan yang membeli popok bayi cenderung juga membeli bir. Teknik data mining yang paling sesuai digunakan dalam penemuan pola ini adalah...",
+    "a": "Analisis tren, yang menyelidiki perbedaan pola pembelian antara periode waktu yang berbeda",
+    "b": "Analisis keranjang pasar (market basket analysis), yang memahami produk atau layanan apa yang biasanya dibeli bersama",
+    "c": "Retensi pelanggan, yang mengidentifikasi karakteristik pelanggan dengan nilai seumur hidup tertinggi",
+    "d": "Deteksi penipuan, yang mengidentifikasi pola transaksi yang tidak wajar berdasarkan data historis",
+    "e": "Segmentasi pasar, yang mengelompokkan pelanggan ke dalam grup berdasarkan perilaku pembelian dan demografi",
+    "jawaban": "b"
+  },
+  {
+    "id": 224,
+    "soal": "Robotika dalam konteks otomatisasi pabrik dianggap sebagai cabang dari kecerdasan buatan. Keunggulan robot industri dibandingkan pekerja manusia dalam lingkungan pabrik terutama adalah...",
+    "a": "Robot dapat membuat keputusan kreatif dan adaptif dalam situasi yang tidak terduga lebih baik dari manusia",
+    "b": "Robot melakukan tugas berulang tanpa kelelahan, menghasilkan output berkualitas tinggi yang lebih konsisten, dan tidak terpapar bahaya seperti bahan kimia atau kerusakan fisik",
+    "c": "Robot lebih murah dari tenaga manusia dalam semua situasi dan dapat menggantikan seluruh angkatan kerja pabrik modern",
+    "d": "Robot memiliki kemampuan komunikasi yang lebih baik sehingga dapat berkoordinasi dengan pemasok dan pelanggan secara langsung",
+    "e": "Robot tidak memerlukan pemeliharaan apapun sepanjang masa operasionalnya karena dibuat dari material yang tidak aus",
+    "jawaban": "b"
+  },
+  {
+    "id": 225,
+    "soal": "Manufacturing Resources Planning (MRP II) memiliki tiga komponen utama. Komponen 'jadwal produksi induk' dalam MRP II berfungsi untuk...",
+    "a": "Mengontrol mesin-mesin di lantai pabrik secara real-time berdasarkan sensor dan data produksi terkini",
+    "b": "Mengembangkan jadwal produksi terperinci dengan mempertimbangkan kapasitas, inventaris, dan waktu tunggu bahan baku",
+    "c": "Menetapkan tujuan produksi secara keseluruhan berdasarkan perkiraan permintaan sebagai acuan bagi komponen perencanaan lainnya",
+    "d": "Mengelola komunikasi antara mesin-mesin di lantai pabrik dengan sistem ERP pusat menggunakan protokol standar",
+    "e": "Memantau kualitas produk secara otomatis dan menghentikan mesin jika terdeteksi cacat produksi yang melebihi toleransi",
+    "jawaban": "c"
+  },
+  {
+    "id": 226,
+    "soal": "Perkembangan email dari generasi pertama hingga ketiga menunjukkan evolusi signifikan. Karakteristik email generasi ketiga (client-server berbasis LAN dengan GUI) yang membedakannya dari generasi sebelumnya adalah...",
+    "a": "Email generasi ketiga pertama kali memperkenalkan kemampuan mengirim pesan teks antar pengguna dalam jaringan organisasi",
+    "b": "Sistem ini menggabungkan software client-server berbasis LAN dengan antarmuka grafis (GUI), memudahkan pengguna berinteraksi dengan email melalui tampilan visual yang intuitif",
+    "c": "Email generasi ketiga hanya bisa diakses melalui browser web dan tidak memerlukan instalasi aplikasi khusus di komputer pengguna",
+    "d": "Generasi ketiga memperkenalkan enkripsi end-to-end yang menjamin privasi komunikasi antarpengguna dalam jaringan perusahaan",
+    "e": "Email generasi ketiga dirancang khusus untuk perangkat mobile sehingga pengguna dapat mengaksesnya dari mana saja",
+    "jawaban": "b"
+  },
+  {
+    "id": 227,
+    "soal": "Dalam konteks Supply Chain Management, perencanaan (plan) sebagai komponen pertama SCM bertujuan untuk...",
+    "a": "Memilih pemasok terbaik berdasarkan harga, kualitas, dan kecepatan pengiriman untuk setiap komponen yang dibutuhkan",
+    "b": "Mengembangkan strategi dengan metrik yang sesuai untuk mengelola semua sumber daya yang diperlukan guna memenuhi permintaan pelanggan akan produk atau layanan perusahaan",
+    "c": "Menentukan jadwal distribusi produk jadi dari pabrik ke gudang distribusi regional di seluruh wilayah pemasaran",
+    "d": "Merancang prosedur penanganan keluhan pelanggan dan sistem pengembalian produk yang tidak sesuai spesifikasi",
+    "e": "Mengoptimalkan layout lantai pabrik dan alur kerja produksi untuk memaksimalkan output per jam operasional",
+    "jawaban": "b"
+  },
+  {
+    "id": 228,
+    "soal": "Salah satu keberhasilan kritikal implementasi KMS menurut penelitian adalah pentingnya modal sosial. Yang dimaksud dengan 'modal sosial' dalam konteks KMS adalah...",
+    "a": "Dana yang diinvestasikan perusahaan untuk membeli dan mengembangkan platform teknologi KMS yang canggih",
+    "b": "Jumlah dokumen dan artikel pengetahuan yang tersimpan dalam repositori KMS perusahaan",
+    "c": "Kekuatan hubungan antar individu dalam organisasi, motivasi untuk berpartisipasi, dan kemampuan kognitif untuk memahami dan menerapkan pengetahuan yang dibagikan",
+    "d": "Jabatan dan posisi hierarkis karyawan yang menentukan akses mereka terhadap konten pengetahuan dalam KMS",
+    "e": "Nilai finansial dari seluruh hak kekayaan intelektual yang dimiliki perusahaan termasuk paten dan merek dagang",
+    "jawaban": "c"
+  },
+  {
+    "id": 229,
+    "soal": "Teknologi GIS digunakan oleh Pusat Pengendalian dan Pencegahan Penyakit untuk mengelola masalah kesehatan publik. Bagaimana GIS membantu dalam konteks ini?",
+    "a": "GIS digunakan untuk menghitung biaya pengobatan penyakit secara akurat berdasarkan data klaim asuransi kesehatan",
+    "b": "GIS menghubungkan data kesehatan dengan informasi geografis untuk menganalisis pola penyebaran penyakit, mengidentifikasi sumber wabah, dan mendukung keputusan kesehatan masyarakat berbasis lokasi",
+    "c": "GIS membantu menjadwalkan kunjungan dokter ke daerah terpencil berdasarkan jarak dan waktu tempuh yang optimal",
+    "d": "GIS digunakan untuk mengelola rekam medis pasien secara digital dan memastikan kerahasiaannya sesuai regulasi",
+    "e": "GIS membantu menganalisis efektivitas kampanye vaksinasi berdasarkan demografi dan tingkat pendidikan masyarakat",
+    "jawaban": "b"
+  },
+  {
+    "id": 230,
+    "soal": "Dalam natural language processing sebagai bagian dari AI, penelitian utama yang sedang dikerjakan adalah...",
+    "a": "Membuat robot yang dapat melihat dan mendengar lingkungan sekitar serta bereaksi terhadap apa yang mereka persepsikan",
+    "b": "Mengembangkan algoritma yang memecah masalah menjadi segmen-segmen dan menghubungkan solusinya seperti proses evolusi genetik",
+    "c": "Menghasilkan sistem yang dapat menerjemahkan instruksi manusia dalam bahasa sehari-hari ke dalam bahasa yang dapat dipahami dan dieksekusi oleh komputer",
+    "d": "Membangun sistem yang menangkap keahlian pengambilan keputusan dari manusia ahli ke dalam format basis pengetahuan terstruktur",
+    "e": "Menggunakan analisis statistik untuk mengenali pola dari sejumlah besar data melalui proses pembelajaran adaptif",
+    "jawaban": "c"
+  },
+  {
+    "id": 231,
+    "soal": "Sebuah toko online menggunakan sistem yang secara otomatis merekomendasikan produk kepada pengguna berdasarkan apa yang paling menarik bagi profil pengguna tersebut saat mengakses situs. Ini merupakan aplikasi data mining kategori...",
+    "a": "Analisis default pembayaran, karena sistem memprediksi perilaku finansial pengguna berdasarkan pola belanja mereka",
+    "b": "Pemasaran interaktif, yang memprediksi konten paling menarik untuk dilihat oleh setiap individu yang mengakses situs web",
+    "c": "Retensi pelanggan, karena tujuan utamanya adalah mempertahankan pelanggan dalam jangka panjang melalui personalisasi",
+    "d": "Cross-selling, karena sistem merekomendasikan produk tambahan yang melengkapi produk yang sedang dilihat pengguna",
+    "e": "Analisis tren, karena sistem membandingkan produk yang populer bulan ini dengan bulan sebelumnya",
+    "jawaban": "b"
+  },
+  {
+    "id": 232,
+    "soal": "Sistem informasi yang memungkinkan seorang manajer penjualan melihat laporan ringkasan penjualan mingguan, sekaligus manajer puncak menggunakan data yang sama untuk analisis tren strategis jangka panjang, merupakan karakteristik dari...",
+    "a": "Sistem manajemen basis data relasional, karena semua pengguna mengakses tabel yang sama dalam database",
+    "b": "Sistem pemrosesan transaksi, karena data dikumpulkan dari semua transaksi penjualan yang terjadi setiap harinya",
+    "c": "Sistem terintegrasi secara vertikal, karena sistem melayani lebih dari satu tingkat manajemen dengan data yang sama namun dengan tingkat agregasi berbeda",
+    "d": "Sistem ERP, karena semua modul bisnis terintegrasi dalam satu platform dengan database yang sama",
+    "e": "Sistem client-server tiga tingkat, karena terdapat tiga lapisan pemrosesan antara sumber data dan pengguna akhir",
+    "jawaban": "c"
+  },
+  {
+    "id": 233,
+    "soal": "Computer Integrated Manufacturing (CIM) menggabungkan beberapa teknologi dalam satu sistem terintegrasi. Apa inti dari konsep CIM?",
+    "a": "Mengintegrasikan sistem ERP perusahaan dengan sistem pemasok eksternal untuk memperlancar aliran bahan baku",
+    "b": "Menggabungkan Material Requirement Planning (MRP) dengan mesin-mesin yang dikontrol secara numerik untuk mengelola dan melaksanakan kontrol produksi secara komprehensif",
+    "c": "Menghubungkan seluruh kantor administrasi perusahaan dengan lantai produksi menggunakan jaringan komputer real-time",
+    "d": "Menggunakan kecerdasan buatan untuk menggantikan seluruh tenaga kerja manusia dalam proses manufaktur",
+    "e": "Mengintegrasikan sistem keuangan dan akuntansi dengan proses produksi untuk kalkulasi biaya yang lebih akurat",
+    "jawaban": "b"
+  },
+  {
+    "id": 234,
+    "soal": "Salah satu dampak penting teknologi informasi terhadap struktur organisasi bisnis modern yang disebutkan dalam materi adalah...",
+    "a": "Teknologi informasi menyebabkan perusahaan membutuhkan lebih banyak lapisan manajemen karena kompleksitas operasional meningkat",
+    "b": "TI memungkinkan pengurangan lapisan manajemen karena seseorang bahkan bisa membuka bisnis online sendiri tanpa merekrut karyawan, dan konsumen bisa dijangkau secara global kapan pun dan di mana pun",
+    "c": "Teknologi informasi hanya bermanfaat bagi perusahaan besar dengan ribuan karyawan dan tidak relevan untuk usaha kecil dan menengah",
+    "d": "TI menyebabkan standarisasi produk dan layanan secara global sehingga perusahaan tidak perlu lagi menyesuaikan penawaran dengan kebutuhan lokal",
+    "e": "Teknologi informasi mengurangi ketergantungan bisnis pada informasi karena semua keputusan dapat diambil secara intuitif",
+    "jawaban": "b"
+  },
+  {
+    "id": 235,
+    "soal": "Seorang insinyur di pabrik pesawat terbang ingin mengetahui apakah ada desain suku cadang yang sudah ada dalam database yang dapat dimodifikasi alih-alih merancang dari nol. Sistem manakah yang paling sesuai untuk kebutuhan ini?",
+    "a": "CAM (Computer-Aided Manufacturing), karena sistem ini mengelola program kontrol untuk mesin-mesin produksi di lantai pabrik",
+    "b": "MRP II (Manufacturing Resources Planning), karena sistem ini mengelola jadwal produksi dan kebutuhan material secara komprehensif",
+    "c": "GT (Group Technology), yang secara logis mengelompokkan komponen berdasarkan karakteristik fisik dan operasi mesin sehingga dapat mengidentifikasi suku cadang yang ada untuk dimodifikasi",
+    "d": "SFC (Shop Floor Control), yang memantau dan mengontrol mesin secara real-time di lantai produksi",
+    "e": "MAP (Manufacturing Automation Protocol), yang memastikan komunikasi yang lancar antar peralatan di lantai pabrik",
+    "jawaban": "c"
+  },
+  {
+    "id": 236,
+    "soal": "Neural network dalam AI bekerja melalui proses pembelajaran adaptif. Bagaimana neural network 'belajar' untuk meningkatkan kemampuan prediksinya?",
+    "a": "Neural network belajar dengan membaca dokumentasi dan manual yang ditulis oleh para ahli di bidang yang dipelajari",
+    "b": "Neural network menerima dataset dengan hasil yang diketahui, menganalisis korelasi, memilih variabel prediktif, membandingkan prediksi dengan hasil aktual, lalu terus menyesuaikan bobot variabel secara iteratif hingga akurasi optimal tercapai",
+    "c": "Neural network belajar melalui instruksi eksplisit yang diberikan oleh knowledge engineer dalam bentuk aturan if-then yang terstruktur",
+    "d": "Neural network belajar dengan mengamati perilaku pengguna yang berinteraksi dengan sistem dan menyimpan preferensi mereka",
+    "e": "Neural network diprogram sekali dengan semua aturan yang diperlukan dan tidak mengubah polanya setelah tahap pengembangan selesai",
+    "jawaban": "b"
+  },
+  {
+    "id": 237,
+    "soal": "Dalam konteks otomatisasi kantor, sistem email berbasis POP (Post Office Protocol) memiliki karakteristik yang membedakannya dari sistem email mainframe. Karakteristik utama POP adalah...",
+    "a": "Semua email diproses langsung di server tanpa perlu diunduh ke komputer pengguna, sehingga menghemat penyimpanan lokal",
+    "b": "Pengguna mengakses email melalui browser web tanpa perlu instalasi aplikasi khusus di komputer mereka",
+    "c": "Surat masuk disimpan di server POP hingga pengguna masuk dan mengunduhnya ke mesin sendiri, lalu diproses menggunakan GUI yang tersedia di komputer lokal",
+    "d": "Email POP hanya bisa diakses dari satu perangkat yang terdaftar dan tidak mendukung akses dari berbagai perangkat berbeda",
+    "e": "Sistem POP memungkinkan beberapa pengguna berbagi satu kotak surat yang sama untuk efisiensi pengelolaan komunikasi organisasi",
+    "jawaban": "c"
+  },
+  {
+    "id": 238,
+    "soal": "Business Intelligence (BI) sering disebut sebagai evolusi dari EIS (Executive Information System). Apa yang membuat BI dianggap lebih luas dari EIS konvensional?",
+    "a": "BI hanya menggunakan data internal perusahaan sedangkan EIS menggabungkan data internal dan eksternal dari berbagai sumber",
+    "b": "BI mencakup pengelolaan kinerja yang lebih luas dan sering mengintegrasikan data kualitatif seperti data persaingan, peringkat, dan ulasan, tidak hanya data kuantitatif operasional",
+    "c": "BI dirancang untuk semua karyawan sedangkan EIS eksklusif hanya untuk direktur dan dewan komisaris perusahaan",
+    "d": "BI menggantikan semua sistem informasi lain dalam perusahaan sedangkan EIS hanya melengkapi sistem yang sudah ada",
+    "e": "BI beroperasi secara offline untuk keamanan data sedangkan EIS memerlukan koneksi internet yang stabil dan cepat",
+    "jawaban": "b"
+  },
+  {
+    "id": 239,
+    "soal": "Sebuah perusahaan pergudangan ingin membangun data warehouse. Salah satu persyaratan kritis agar gudang data benar-benar berguna bagi penggunanya adalah...",
+    "a": "Gudang data harus dibangun menggunakan teknologi cloud agar dapat diakses dari mana saja oleh semua karyawan",
+    "b": "Gudang data harus menyimpan hanya data yang berasal dari sumber internal perusahaan untuk menjaga konsistensi",
+    "c": "Data dalam gudang harus akurat, terkini, disimpan dalam bentuk yang dapat digunakan, dan didukung alat akses serta analisis yang mudah digunakan",
+    "d": "Gudang data harus diperbarui setiap menit untuk memastikan informasi yang ditampilkan selalu mencerminkan kondisi operasional terkini",
+    "e": "Gudang data harus menggunakan satu vendor tunggal untuk semua komponen agar kompatibilitas antar sistem terjamin",
+    "jawaban": "c"
+  },
+  {
+    "id": 240,
+    "soal": "Dalam pemrograman genetika (genetic programming) sebagai cabang AI, masalah diselesaikan dengan cara yang terinspirasi dari evolusi biologis. Cara kerjanya adalah...",
+    "a": "Sistem mempelajari pola dari data historis dan secara bertahap meningkatkan akurasi prediksinya melalui iterasi seperti yang dilakukan neural network",
+    "b": "Masalah dipecah menjadi segmen-segmen dan solusi untuk setiap segmen dihubungkan dalam berbagai cara sehingga setelah banyak generasi berkembang biak menghasilkan output yang bisa lebih unggul dari rancangan manusia",
+    "c": "Sistem membangun aturan pengambilan keputusan dari basis pengetahuan pakar manusia yang telah divalidasi dan dikodifikasi secara formal",
+    "d": "Program menghubungkan elemen data menggunakan relasi topologi untuk menemukan solusi optimal dalam ruang masalah yang kompleks",
+    "e": "Sistem menggunakan analisis statistik multivariat untuk menemukan kombinasi variabel yang paling menjelaskan variasi dalam data target",
+    "jawaban": "b"
+  }
+]
